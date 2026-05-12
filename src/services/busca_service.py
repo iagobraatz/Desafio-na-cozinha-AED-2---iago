@@ -34,6 +34,18 @@ class BuscaService:
             if receita.categoria.lower() == categoria_normalizada
         ]
 
+    def buscar_por_ingrediente(self, ingrediente: str, receitas: List[Receita]) -> List[Receita]:
+        ingrediente_normalizado = ingrediente.strip().lower()
+        resultado = []
+
+        for receita in receitas:
+            for ing in receita.ingredientes:
+                if ingrediente_normalizado in ing.lower():
+                    resultado.append(receita)
+                    break
+
+        return resultado
+
     def buscar_por_tempo(self, tempo_preparo: int) -> List[Receita]:
         return self.arvore_b.buscar(tempo_preparo)
 

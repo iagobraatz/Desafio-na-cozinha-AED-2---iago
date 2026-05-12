@@ -59,6 +59,7 @@ def menu() -> None:
         print("4 - Buscar receitas por categoria")
         print("5 - Modo Investigação")
         print("6 - Modo Chef")
+        print("7 - Buscar por ingrediente")
         print("0 - Sair")
 
         opcao = input("Escolha uma opção: ").strip()
@@ -136,9 +137,17 @@ def menu() -> None:
                 resultados = recomendacao_service.recomendar_melhores_avaliadas(receitas, quantidade)
                 for receita in resultados:
                     print(formatar_receita(receita))
-
             else:
                 print("Opção inválida.")
+        elif opcao == "7":
+            ingrediente = input("Digite o ingrediente: ").strip()
+            resultados = busca_service.buscar_por_ingrediente(ingrediente, receitas)
+            
+            if resultados:
+                for receita in resultados:
+                    print(formatar_receita(receita))
+            else:
+                print("Nenhuma receita encontrada.")        
 
         else:
             print("Opção inválida.")
