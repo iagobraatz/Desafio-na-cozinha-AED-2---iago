@@ -197,7 +197,7 @@ Foi adotado um hash SHA-256 baseado no conteúdo da receita para detectar altera
 
 ## Repositório
 
-Link do repositório: [https://github.com/iagobraatz/Desafio-na-cozinha-AED-2---iago](https://github.com/iagobraatz/Desafio-na-cozinha-AED-2---iago)
+Link do repositório: [Desafio na Cozinha - AED II](https://github.com/iagobraatz/Desafio-na-cozinha-AED-2---iago)
 
 ## Integrantes
 
