@@ -51,6 +51,6 @@ class BuscaService:
 
     def buscar_por_custo(self, custo_estimado: float) -> List[Receita]:
         return self.arvore_b.buscar(custo_estimado)
-
+# IAGO KAINAN BUBOLZ BRAATZ
     def buscar_por_avaliacao(self, avaliacao_clientes: float) -> List[Receita]:
         return self.arvore_b.buscar(avaliacao_clientes)

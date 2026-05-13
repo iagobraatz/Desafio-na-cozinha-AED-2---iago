@@ -15,7 +15,7 @@ class ReceitaService:
 
         with self.caminho_arquivo.open("r", encoding="utf-8") as arquivo:
             dados = json.load(arquivo)
-
+# IAGO KAINAN BUBOLZ BRAATZ
         if not isinstance(dados, list):
             raise ValueError("O arquivo JSON deve conter uma lista de receitas.")
 

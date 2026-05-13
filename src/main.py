@@ -148,7 +148,7 @@ def menu() -> None:
                     print(formatar_receita(receita))
             else:
                 print("Nenhuma receita encontrada.")        
-
+# IAGO KAINAN BUBOLZ BRAATZ
         else:
             print("Opção inválida.")
 

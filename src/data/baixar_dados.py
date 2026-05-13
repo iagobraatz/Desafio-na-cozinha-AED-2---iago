@@ -9,6 +9,7 @@ for letra in string.ascii_lowercase:
     url = f"https://www.themealdb.com/api/json/v1/1/search.php?f={letra}"
     response = requests.get(url)
     data = response.json()
+    # IAGO KAINAN BUBOLZ BRAATZ
 
     if data["meals"]:
         for r in data["meals"]:

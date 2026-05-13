@@ -12,7 +12,7 @@ class IntegridadeService:
             f"{receita.custo_estimado}|{receita.avaliacao_clientes}"
         )
         return hashlib.sha256(dados.encode("utf-8")).hexdigest()
-
+# IAGO KAINAN BUBOLZ BRAATZ
     def verificar_receita(self, receita_original: Receita, receita_atual: Receita) -> bool:
         assinatura_original = self.gerar_assinatura(receita_original)
         assinatura_atual = self.gerar_assinatura(receita_atual)

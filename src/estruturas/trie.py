@@ -46,7 +46,7 @@ class ArvoreTrie:
         receitas_encontradas = []
         self._coletar_receitas(no_atual, receitas_encontradas)
         return receitas_encontradas
-
+# IAGO KAINAN BUBOLZ BRAATZ
     def _coletar_receitas(self, no, lista_receitas):
         if no.fim_palavra:
             lista_receitas.extend(no.receitas)

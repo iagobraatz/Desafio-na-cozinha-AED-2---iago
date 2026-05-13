@@ -96,7 +96,7 @@ class ArvoreB:
         resultado = []
         self._percorrer_em_ordem(self.raiz, resultado)
         return resultado
-
+# IAGO KAINAN BUBOLZ BRAATZ
     def _percorrer_em_ordem(self, no: NoBTree, resultado: List[Any]) -> None:
         for i, (chave, valor) in enumerate(no.chaves):
             if not no.folha:

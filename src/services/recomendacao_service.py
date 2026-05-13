@@ -20,7 +20,7 @@ class RecomendacaoService:
             receitas_ordenadas = sorted(receitas, key=lambda receita: receita.avaliacao_clientes, reverse=True)
         else:
             raise ValueError("Critério inválido. Use 'custo', 'tempo' ou 'avaliacao'.")
-
+# IAGO KAINAN BUBOLZ BRAATZ
         selecionadas = []
         custo_total = 0.0
         tempo_total = 0

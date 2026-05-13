@@ -43,7 +43,7 @@ class Receita:
             "custo": self.custo_estimado,
             "avaliacao": self.avaliacao_clientes,
         }
-
+# IAGO KAINAN BUBOLZ BRAATZ
     def __str__(self) -> str:
         ingredientes = ", ".join(self.ingredientes)
         return (

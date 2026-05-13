@@ -23,3 +23,4 @@ class HashUtil:
             partes.append(f"{chave}={dados[chave]}")
         texto = "|".join(partes)
         return HashUtil.gerar_hash(texto)
+# IAGO KAINAN BUBOLZ BRAATZ
