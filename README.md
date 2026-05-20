@@ -167,7 +167,7 @@ O sistema possui as seguintes opções:
 * modo chef
 * buscar por ingrediente
 * salvar Árvore B em arquivo binário
-* carregar Árvore B do arquivo binário
+* carregar Árvore B do arquivo binário para a memoria
 * diagnóstico da Árvore B
 * busca utilizando a Árvore B carregada do binário
 * sair
@@ -204,7 +204,7 @@ Foi adotado um hash SHA-256 baseado no conteúdo da receita para detectar altera
 
 ### Opção escolhida
 
-A dupla escolheu a **Opção C — Árvores B e Simulação de Memória Secundária (I/O)**.
+Eu escolhi a **Opção C — Árvores B e Simulação de Memória Secundária (I/O)**.
 
 ### Dificuldade principal na prova
 
@@ -213,6 +213,23 @@ A maior dificuldade encontrada foi montar corretamente a **Árvore B** após as 
 ### O que foi adicionado no T1
 
 Para a recuperação, a Árvore B deixou de viver apenas na memória RAM e passou a ter persistência em arquivo binário. O sistema agora salva a estrutura em `data/arvore_b.bin` e consegue carregá-la depois, simulando páginas/blocos de disco. Também foi adicionada uma rotina de diagnóstico para verificar o estado da árvore e uma busca de teste realizada diretamente na árvore carregada do binário.
+
+### Como testar a funcionalidade
+
+1. Executar o sistema com:
+
+```bash
+python main.py
+```
+
+2. No menu, escolher a opção 8 para salvar a Árvore B em binário.
+3. Fechar o programa.
+4. Abrir o sistema novamente com:
+   python main.py
+5. No menu, escolher a opção 9 para carregar a Árvore B do arquivo binário.   
+6. No menu, escolher a opção 10 para visualizar o diagnóstico da Árvore B.
+7. No menu, escolher a opção 11 para simular a RAM limpa, carregar a Árvore B do arquivo binário e fazer a busca.
+8. Digitar um valor de tempo de preparo existente, por exemplo 43.
 
 ## Repositório
 
