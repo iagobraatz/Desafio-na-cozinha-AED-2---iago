@@ -166,6 +166,11 @@ O sistema possui as seguintes opções:
 * modo investigação
 * modo chef
 * buscar por ingrediente
+* salvar Árvore B em arquivo binário
+* carregar Árvore B do arquivo binário
+* diagnóstico da Árvore B
+* busca utilizando a Árvore B carregada do binário
+* sair
 
 ## Justificativa das escolhas
 
@@ -179,7 +184,7 @@ Foi escolhida por ser eficiente para buscas por prefixo e por nome parcial.
 
 ### Árvore B
 
-Foi usada para organizar receitas por um atributo numérico, possibilitando consultas ordenadas.
+Foi usada para organizar receitas por um atributo numérico, possibilitando consultas ordenadas. Além disso, na atividade de recuperação da P1, a estrutura foi expandida com persistência em arquivo binário, permitindo salvar e carregar a Árvore B diretamente do disco, simulando páginas de memória secundária e realizando buscas sem necessidade de reconstrução completa da árvore na RAM.
 
 ### Algoritmo guloso
 
@@ -195,6 +200,20 @@ Foi adotado um hash SHA-256 baseado no conteúdo da receita para detectar altera
 * O sistema foi pensado para execução local, sem depender da API durante a apresentação.
 * O arquivo `receitas.json` deve permanecer na pasta `data` para o funcionamento correto.
 
+## [RECUPERAÇÃO P1]
+
+### Opção escolhida
+
+A dupla escolheu a **Opção C — Árvores B e Simulação de Memória Secundária (I/O)**.
+
+### Dificuldade principal na prova
+
+A maior dificuldade encontrada foi montar corretamente a **Árvore B** após as inserções, principalmente entender as divisões de nós e desenhar a estrutura final depois de todas as inserções. Também houve dificuldade na questão de remoção de elementos e reorganização da árvore.
+
+### O que foi adicionado no T1
+
+Para a recuperação, a Árvore B deixou de viver apenas na memória RAM e passou a ter persistência em arquivo binário. O sistema agora salva a estrutura em `data/arvore_b.bin` e consegue carregá-la depois, simulando páginas/blocos de disco. Também foi adicionada uma rotina de diagnóstico para verificar o estado da árvore e uma busca de teste realizada diretamente na árvore carregada do binário.
+
 ## Repositório
 
 Link do repositório: [Desafio na Cozinha - AED II](https://github.com/iagobraatz/Desafio-na-cozinha-AED-2---iago)
@@ -205,4 +224,4 @@ Link do repositório: [Desafio na Cozinha - AED II](https://github.com/iagobraat
 
 ## Data de entrega
 
-18 de maio de 2026
+25 de maio de 2026

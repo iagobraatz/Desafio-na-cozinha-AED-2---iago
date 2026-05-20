@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
+from pathlib import Path
 from typing import Any, List, Optional, Tuple
+import pickle
 
 
 @dataclass
@@ -10,12 +12,73 @@ class NoBTree:
     chaves: List[Tuple[float, Any]] = field(default_factory=list)
     filhos: List["NoBTree"] = field(default_factory=list)
 
+    def para_dicionario(self) -> dict:
+        return {
+            "folha": self.folha,
+            "chaves": [self._serializar_par_chave_valor(chave, valor) for chave, valor in self.chaves],
+            "filhos": [filho.para_dicionario() for filho in self.filhos],
+        }
+
+    @classmethod
+    def de_dicionario(cls, dados: dict) -> "NoBTree":
+        no = cls(folha=bool(dados.get("folha", True)))
+        no.chaves = [cls._desserializar_par_chave_valor(item) for item in dados.get("chaves", [])]
+        no.filhos = [cls.de_dicionario(filho) for filho in dados.get("filhos", [])]
+        return no
+
+    @staticmethod
+    def _serializar_par_chave_valor(chave: float, valor: Any) -> dict:
+        if hasattr(valor, "para_dicionario") and callable(getattr(valor, "para_dicionario")):
+            valor_serializado = {
+                "__tipo__": "objeto",
+                "classe": valor.__class__.__name__,
+                "dados": valor.para_dicionario(),
+            }
+        elif isinstance(valor, dict):
+            valor_serializado = {
+                "__tipo__": "dict",
+                "dados": valor,
+            }
+        else:
+            valor_serializado = {
+                "__tipo__": "valor",
+                "dados": valor,
+            }
+
+        return {
+            "chave": chave,
+            "valor": valor_serializado,
+        }
+
+    @staticmethod
+    def _desserializar_par_chave_valor(item: dict) -> Tuple[float, Any]:
+        chave = item["chave"]
+        valor_info = item["valor"]
+        tipo = valor_info.get("__tipo__")
+        dados = valor_info.get("dados")
+
+        if tipo == "objeto":
+            try:
+                from models.receita import Receita
+
+                if valor_info.get("classe") == "Receita":
+                    valor = Receita.a_partir_de_dicionario(dados)
+                else:
+                    valor = dados
+            except Exception:
+                valor = dados
+        elif tipo == "dict":
+            valor = dados
+        else:
+            valor = dados
+
+        return chave, valor
+
 
 class ArvoreB:
     def __init__(self, grau_minimo: int = 2):
         if grau_minimo < 2:
             raise ValueError("O grau mínimo da Árvore B deve ser maior ou igual a 2.")
-
         self.grau_minimo = grau_minimo
         self.raiz = NoBTree()
 
@@ -27,13 +90,13 @@ class ArvoreB:
         while i < len(no.chaves) and chave > no.chaves[i][0]:
             i += 1
 
-        if i < len(no.chaves) and chave == no.chaves[i][0]:
-            valores = [no.chaves[i][1]]
-            j = i + 1
-            while j < len(no.chaves) and no.chaves[j][0] == chave:
-                valores.append(no.chaves[j][1])
-                j += 1
-            return valores
+        resultados = []
+        while i < len(no.chaves) and chave == no.chaves[i][0]:
+            resultados.append(no.chaves[i][1])
+            i += 1
+
+        if resultados:
+            return resultados
 
         if no.folha:
             return []
@@ -96,7 +159,7 @@ class ArvoreB:
         resultado = []
         self._percorrer_em_ordem(self.raiz, resultado)
         return resultado
-# IAGO KAINAN BUBOLZ BRAATZ
+
     def _percorrer_em_ordem(self, no: NoBTree, resultado: List[Any]) -> None:
         for i, (chave, valor) in enumerate(no.chaves):
             if not no.folha:
@@ -105,3 +168,59 @@ class ArvoreB:
 
         if not no.folha:
             self._percorrer_em_ordem(no.filhos[len(no.chaves)], resultado)
+
+    def salvar_em_binario(self, caminho_arquivo: str | Path) -> None:
+        caminho = Path(caminho_arquivo)
+        caminho.parent.mkdir(parents=True, exist_ok=True)
+
+        dados = {
+            "grau_minimo": self.grau_minimo,
+            "raiz": self.raiz.para_dicionario(),
+        }
+
+        with caminho.open("wb") as arquivo:
+            pickle.dump(dados, arquivo, protocol=pickle.HIGHEST_PROTOCOL)
+
+    @classmethod
+    def carregar_de_binario(cls, caminho_arquivo: str | Path) -> "ArvoreB":
+        caminho = Path(caminho_arquivo)
+        if not caminho.exists():
+            raise FileNotFoundError(f"Arquivo binário não encontrado: {caminho}")
+
+        with caminho.open("rb") as arquivo:
+            dados = pickle.load(arquivo)
+
+        arvore = cls(grau_minimo=int(dados["grau_minimo"]))
+        arvore.raiz = NoBTree.de_dicionario(dados["raiz"])
+        return arvore
+
+    def existe_arquivo_binario(self, caminho_arquivo: str | Path) -> bool:
+        return Path(caminho_arquivo).exists()
+
+    def limpar(self) -> None:
+        self.raiz = NoBTree()
+
+    def diagnostico(self) -> dict:
+        quantidade_nos, quantidade_chaves, altura = self._coletar_diagnostico(self.raiz)
+        return {
+            "grau_minimo": self.grau_minimo,
+            "quantidade_nos": quantidade_nos,
+            "quantidade_chaves": quantidade_chaves,
+            "altura": altura,
+        }
+
+    def _coletar_diagnostico(self, no: NoBTree) -> Tuple[int, int, int]:
+        quantidade_nos = 1
+        quantidade_chaves = len(no.chaves)
+        altura = 1
+
+        if not no.folha and no.filhos:
+            alturas_filhos = []
+            for filho in no.filhos:
+                nos_filho, chaves_filho, altura_filho = self._coletar_diagnostico(filho)
+                quantidade_nos += nos_filho
+                quantidade_chaves += chaves_filho
+                alturas_filhos.append(altura_filho)
+            altura += max(alturas_filhos)
+
+        return quantidade_nos, quantidade_chaves, altura

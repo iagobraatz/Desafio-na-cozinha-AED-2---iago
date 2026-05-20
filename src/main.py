@@ -10,9 +10,8 @@ from services.recomendacao_service import RecomendacaoService
 from services.receita_service import ReceitaService
 from utils.hash_util import HashUtil
 
-
 CAMINHO_JSON = Path("data/receitas.json")
-
+CAMINHO_BINARIO_BTREE = Path("data/arvore_b.bin")
 
 def formatar_receita(receita: Receita) -> str:
     return (
@@ -24,7 +23,6 @@ def formatar_receita(receita: Receita) -> str:
         f"Custo: R$ {receita.custo_estimado:.2f} | "
         f"Avaliação: {receita.avaliacao_clientes:.1f}"
     )
-
 
 def carregar_estruturas():
     servico_receitas = ReceitaService(CAMINHO_JSON)
@@ -43,8 +41,29 @@ def carregar_estruturas():
     integridade_service = IntegridadeService()
     recomendacao_service = RecomendacaoService()
 
-    return receitas, tabela_hash, arvore_trie, arvore_b, busca_service, integridade_service, recomendacao_service
+    return (
+        receitas,
+        tabela_hash,
+        arvore_trie,
+        arvore_b,
+        busca_service,
+        integridade_service,
+        recomendacao_service,
+    )
 
+def carregar_arvore_b_persistida(caminho_binario: Path) -> ArvoreB:
+    return ArvoreB.carregar_de_binario(caminho_binario)
+
+def salvar_arvore_b_persistida(arvore_b: ArvoreB, caminho_binario: Path) -> None:
+    arvore_b.salvar_em_binario(caminho_binario)
+
+def imprimir_diagnostico_btree(arvore_b: ArvoreB) -> None:
+    diagnostico = arvore_b.diagnostico()
+    print("\n--- Diagnóstico da Árvore B ---")
+    print(f"Grau mínimo: {diagnostico['grau_minimo']}")
+    print(f"Quantidade de nós: {diagnostico['quantidade_nos']}")
+    print(f"Quantidade de chaves: {diagnostico['quantidade_chaves']}")
+    print(f"Altura: {diagnostico['altura']}")
 
 def menu() -> None:
     receitas, tabela_hash, arvore_trie, arvore_b, busca_service, integridade_service, recomendacao_service = carregar_estruturas()
@@ -60,6 +79,10 @@ def menu() -> None:
         print("5 - Modo Investigação")
         print("6 - Modo Chef")
         print("7 - Buscar por ingrediente")
+        print("8 - Recuperação P1: salvar Árvore B em binário")
+        print("9 - Recuperação P1: carregar Árvore B do binário")
+        print("10 - Recuperação P1: diagnóstico da Árvore B")
+        print("11 - Recuperação P1: buscar na Árvore B carregada")
         print("0 - Sair")
 
         opcao = input("Escolha uma opção: ").strip()
@@ -139,19 +162,60 @@ def menu() -> None:
                     print(formatar_receita(receita))
             else:
                 print("Opção inválida.")
+
         elif opcao == "7":
             ingrediente = input("Digite o ingrediente: ").strip()
             resultados = busca_service.buscar_por_ingrediente(ingrediente, receitas)
-            
+
             if resultados:
                 for receita in resultados:
                     print(formatar_receita(receita))
             else:
-                print("Nenhuma receita encontrada.")        
-# IAGO KAINAN BUBOLZ BRAATZ
+                print("Nenhuma receita encontrada.")
+
+        elif opcao == "8":
+            try:
+                salvar_arvore_b_persistida(arvore_b, CAMINHO_BINARIO_BTREE)
+                print(f"Árvore B salva com sucesso em: {CAMINHO_BINARIO_BTREE}")
+            except Exception as erro:
+                print(f"Erro ao salvar a Árvore B: {erro}")
+
+        elif opcao == "9":
+            try:
+                arvore_b = carregar_arvore_b_persistida(CAMINHO_BINARIO_BTREE)
+                busca_service = BuscaService(tabela_hash, arvore_trie, arvore_b)
+                print("Árvore B carregada com sucesso do arquivo binário.")
+            except Exception as erro:
+                print(f"Erro ao carregar a Árvore B: {erro}")
+
+        elif opcao == "10":
+            imprimir_diagnostico_btree(arvore_b)
+
+        elif opcao == "11":
+            try:
+                if not CAMINHO_BINARIO_BTREE.exists():
+                    print("O arquivo binário da Árvore B ainda não existe. Use a opção 8 primeiro.")
+                    continue
+
+                arvore_b_persistida = carregar_arvore_b_persistida(CAMINHO_BINARIO_BTREE)
+                busca_persistida = BuscaService(tabela_hash, arvore_trie, arvore_b_persistida)
+                print("RAM limpa simulada: Árvore B foi recarregada do binário.")
+
+                chave = int(input("Digite o tempo de preparo para buscar: ").strip())
+                resultados = busca_persistida.buscar_por_tempo(chave)
+
+                if resultados:
+                    for receita in resultados:
+                        print(formatar_receita(receita))
+                else:
+                    print("Nenhuma receita encontrada para essa chave.")
+            except ValueError:
+                print("Digite um valor numérico válido.")
+            except Exception as erro:
+                print(f"Erro na recuperação P1: {erro}")
+
         else:
             print("Opção inválida.")
-
 
 if __name__ == "__main__":
     menu()
