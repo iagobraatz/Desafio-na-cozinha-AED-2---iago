@@ -12,12 +12,7 @@
     ],
     "tempo": 43,
     "custo": 33,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 69.68,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53999",
@@ -32,14 +27,7 @@
     ],
     "tempo": 43,
     "custo": 33,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 53.46,
-    "ingredientes_raros": [
-      "ppp Pepper Paste"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53373",
@@ -63,15 +51,7 @@
     ],
     "tempo": 40,
     "custo": 51,
-    "avaliacao": 3.5,
-    "classe_prato": "entrada",
-    "valor_venda": 92.82,
-    "ingredientes_raros": [
-      "Egg Roll Wrappers",
-      "Plum Sauce"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53158",
@@ -89,12 +69,7 @@
     ],
     "tempo": 23,
     "custo": 80,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 142.29,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.5
   },
   {
     "id": "53169",
@@ -109,14 +84,7 @@
     ],
     "tempo": 48,
     "custo": 73,
-    "avaliacao": 4.3,
-    "classe_prato": "entrada",
-    "valor_venda": 159.81,
-    "ingredientes_raros": [
-      "White bread"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.3
   },
   {
     "id": "53138",
@@ -134,12 +102,7 @@
     ],
     "tempo": 48,
     "custo": 19,
-    "avaliacao": 4.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 40.69,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "53284",
@@ -160,12 +123,7 @@
     ],
     "tempo": 10,
     "custo": 82,
-    "avaliacao": 3.0,
-    "classe_prato": "entrada",
-    "valor_venda": 189.73,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.0
   },
   {
     "id": "53282",
@@ -186,12 +144,7 @@
     ],
     "tempo": 60,
     "custo": 53,
-    "avaliacao": 4.2,
-    "classe_prato": "entrada",
-    "valor_venda": 88.49,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.2
   },
   {
     "id": "53288",
@@ -208,12 +161,7 @@
     ],
     "tempo": 38,
     "custo": 50,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 96.88,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "53281",
@@ -231,12 +179,7 @@
     ],
     "tempo": 53,
     "custo": 19,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 30.85,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "53111",
@@ -253,14 +196,7 @@
     ],
     "tempo": 15,
     "custo": 83,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 147.32,
-    "ingredientes_raros": [
-      "Porridge oats"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.4
   },
   {
     "id": "53049",
@@ -279,12 +215,7 @@
     ],
     "tempo": 22,
     "custo": 84,
-    "avaliacao": 3.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 168.36,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "52893",
@@ -303,12 +234,7 @@
     ],
     "tempo": 18,
     "custo": 15,
-    "avaliacao": 4.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 24.32,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "53380",
@@ -327,14 +253,7 @@
     ],
     "tempo": 23,
     "custo": 43,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 75.64,
-    "ingredientes_raros": [
-      "Ground Sugar"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "52768",
@@ -353,14 +272,7 @@
     ],
     "tempo": 59,
     "custo": 84,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 178.07,
-    "ingredientes_raros": [
-      "free-range eggs, beaten"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "53389",
@@ -380,12 +292,7 @@
     ],
     "tempo": 40,
     "custo": 28,
-    "avaliacao": 4.8,
-    "classe_prato": "entrada",
-    "valor_venda": 57.01,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "53276",
@@ -404,14 +311,7 @@
     ],
     "tempo": 45,
     "custo": 64,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 113.69,
-    "ingredientes_raros": [
-      "Turkish Delight"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "53334",
@@ -429,17 +329,7 @@
     ],
     "tempo": 40,
     "custo": 100,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 207.14,
-    "ingredientes_raros": [
-      "Corn Arepa Filled With Mozarella Cheese",
-      "Fried Ripe Bananas",
-      "Pico De Gallo Sauce",
-      "Shredded Meat"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.7
   },
   {
     "id": "53329",
@@ -461,12 +351,7 @@
     ],
     "tempo": 28,
     "custo": 42,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 94.4,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "53392",
@@ -481,12 +366,7 @@
     ],
     "tempo": 14,
     "custo": 45,
-    "avaliacao": 4.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 72.23,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "53156",
@@ -511,15 +391,7 @@
     ],
     "tempo": 16,
     "custo": 63,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 141.41,
-    "ingredientes_raros": [
-      "Pork belly slices",
-      "Bacon lardon"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.9
   },
   {
     "id": "53147",
@@ -539,14 +411,7 @@
     ],
     "tempo": 17,
     "custo": 71,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 153.25,
-    "ingredientes_raros": [
-      "Seafood stock"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53133",
@@ -560,15 +425,7 @@
     ],
     "tempo": 36,
     "custo": 51,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 95.48,
-    "ingredientes_raros": [
-      "Mixed Beef Cuts",
-      "Morcilla"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.6
   },
   {
     "id": "53278",
@@ -587,12 +444,7 @@
     ],
     "tempo": 29,
     "custo": 95,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 163.82,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "53267",
@@ -610,12 +462,7 @@
     ],
     "tempo": 54,
     "custo": 51,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 120.65,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "53099",
@@ -630,16 +477,7 @@
     ],
     "tempo": 42,
     "custo": 77,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 143.93,
-    "ingredientes_raros": [
-      "Lean Minced Steak",
-      "Cooked Beetroot",
-      "Soured cream and chive dip"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53127",
@@ -655,12 +493,7 @@
     ],
     "tempo": 36,
     "custo": 51,
-    "avaliacao": 4.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 85.38,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.6
   },
   {
     "id": "53107",
@@ -679,14 +512,7 @@
     ],
     "tempo": 16,
     "custo": 18,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 30.19,
-    "ingredientes_raros": [
-      "Tortillas"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "53050",
@@ -709,12 +535,7 @@
     ],
     "tempo": 60,
     "custo": 15,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 34.17,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "53094",
@@ -734,12 +555,7 @@
     ],
     "tempo": 48,
     "custo": 50,
-    "avaliacao": 4.8,
-    "classe_prato": "entrada",
-    "valor_venda": 104.15,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "52807",
@@ -758,12 +574,7 @@
     ],
     "tempo": 48,
     "custo": 27,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 60.63,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.2
   },
   {
     "id": "52959",
@@ -780,12 +591,7 @@
     ],
     "tempo": 10,
     "custo": 44,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 96.09,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "52767",
@@ -805,14 +611,7 @@
     ],
     "tempo": 16,
     "custo": 65,
-    "avaliacao": 4.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 131.88,
-    "ingredientes_raros": [
-      "chilled butter"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "53279",
@@ -836,15 +635,7 @@
     ],
     "tempo": 54,
     "custo": 62,
-    "avaliacao": 4.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 147.47,
-    "ingredientes_raros": [
-      "Vanilla Bean Paste",
-      "Ground Pistachios"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "52855",
@@ -861,12 +652,7 @@
     ],
     "tempo": 19,
     "custo": 19,
-    "avaliacao": 3.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 36.15,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53239",
@@ -884,12 +670,7 @@
     ],
     "tempo": 41,
     "custo": 82,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 167.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "53242",
@@ -909,14 +690,7 @@
     ],
     "tempo": 29,
     "custo": 98,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 221.83,
-    "ingredientes_raros": [
-      "White Bread Mix"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53103",
@@ -935,14 +709,7 @@
     ],
     "tempo": 55,
     "custo": 83,
-    "avaliacao": 3.0,
-    "classe_prato": "principal",
-    "valor_venda": 173.87,
-    "ingredientes_raros": [
-      "barramundi"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.0
   },
   {
     "id": "52894",
@@ -972,15 +739,7 @@
     ],
     "tempo": 38,
     "custo": 54,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 123.63,
-    "ingredientes_raros": [
-      "Pink Food Colouring",
-      "Marzipan"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "52995",
@@ -1003,12 +762,7 @@
     ],
     "tempo": 53,
     "custo": 40,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 82.48,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "52848",
@@ -1023,12 +777,7 @@
     ],
     "tempo": 20,
     "custo": 93,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 201.22,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "52928",
@@ -1050,12 +799,7 @@
     ],
     "tempo": 41,
     "custo": 12,
-    "avaliacao": 4.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 19.64,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.3
   },
   {
     "id": "53366",
@@ -1079,14 +823,7 @@
     ],
     "tempo": 14,
     "custo": 65,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 115.85,
-    "ingredientes_raros": [
-      "High Heat Cooking Oil"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "52874",
@@ -1111,12 +848,7 @@
     ],
     "tempo": 44,
     "custo": 70,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 128.21,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "52878",
@@ -1141,15 +873,7 @@
     ],
     "tempo": 43,
     "custo": 26,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 43.26,
-    "ingredientes_raros": [
-      "Stout",
-      "Oysters"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "53071",
@@ -1173,14 +897,7 @@
     ],
     "tempo": 55,
     "custo": 15,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 26.79,
-    "ingredientes_raros": [
-      "Beef Stock Concentrate"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52997",
@@ -1198,12 +915,7 @@
     ],
     "tempo": 35,
     "custo": 93,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 156.31,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "52904",
@@ -1228,14 +940,7 @@
     ],
     "tempo": 13,
     "custo": 58,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 105.7,
-    "ingredientes_raros": [
-      "Bouquet Garni"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "52812",
@@ -1256,12 +961,7 @@
     ],
     "tempo": 59,
     "custo": 86,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 181.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53070",
@@ -1285,12 +985,7 @@
     ],
     "tempo": 43,
     "custo": 22,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 41.62,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "52873",
@@ -1319,12 +1014,7 @@
     ],
     "tempo": 21,
     "custo": 16,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 30.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "53317",
@@ -1352,12 +1042,7 @@
     ],
     "tempo": 12,
     "custo": 58,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 102.52,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "52952",
@@ -1384,12 +1069,7 @@
     ],
     "tempo": 45,
     "custo": 38,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 68.92,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "53359",
@@ -1411,12 +1091,7 @@
     ],
     "tempo": 30,
     "custo": 66,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 155.06,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.3
   },
   {
     "id": "53068",
@@ -1438,12 +1113,7 @@
     ],
     "tempo": 23,
     "custo": 71,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 150.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "53238",
@@ -1470,12 +1140,7 @@
     ],
     "tempo": 21,
     "custo": 94,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 196.21,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "53053",
@@ -1497,12 +1162,7 @@
     ],
     "tempo": 33,
     "custo": 73,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 126.79,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "52834",
@@ -1523,12 +1183,7 @@
     ],
     "tempo": 22,
     "custo": 90,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 196.5,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "52824",
@@ -1546,12 +1201,7 @@
     ],
     "tempo": 50,
     "custo": 35,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 60.58,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.7
   },
   {
     "id": "52803",
@@ -1569,14 +1219,7 @@
     ],
     "tempo": 49,
     "custo": 92,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 175.13,
-    "ingredientes_raros": [
-      "Parma ham"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.3
   },
   {
     "id": "53307",
@@ -1591,12 +1234,7 @@
     ],
     "tempo": 51,
     "custo": 47,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 112.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "53313",
@@ -1618,12 +1256,7 @@
     ],
     "tempo": 12,
     "custo": 92,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 194.3,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "53316",
@@ -1644,15 +1277,7 @@
     ],
     "tempo": 20,
     "custo": 98,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 200.46,
-    "ingredientes_raros": [
-      "Frozen Mixed Berries",
-      "Blackcurrant Jam"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.4
   },
   {
     "id": "53078",
@@ -1669,12 +1294,7 @@
     ],
     "tempo": 32,
     "custo": 39,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 83.76,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.5
   },
   {
     "id": "53013",
@@ -1698,12 +1318,7 @@
     ],
     "tempo": 23,
     "custo": 29,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 65.95,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 5.0
   },
   {
     "id": "53018",
@@ -1733,14 +1348,7 @@
     ],
     "tempo": 58,
     "custo": 86,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 190.99,
-    "ingredientes_raros": [
-      "Kielbasa"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.2
   },
   {
     "id": "53300",
@@ -1766,17 +1374,7 @@
     ],
     "tempo": 32,
     "custo": 75,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 133.74,
-    "ingredientes_raros": [
-      "German Sausages",
-      "Peppercorns",
-      "Juniper Berries",
-      "Allspice Berries"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "53069",
@@ -1794,12 +1392,7 @@
     ],
     "tempo": 57,
     "custo": 84,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 136.56,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "52979",
@@ -1821,12 +1414,7 @@
     ],
     "tempo": 51,
     "custo": 99,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 183.38,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.3
   },
   {
     "id": "52891",
@@ -1849,14 +1437,7 @@
     ],
     "tempo": 45,
     "custo": 54,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 97.97,
-    "ingredientes_raros": [
-      "Hazlenuts"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "53080",
@@ -1873,12 +1454,7 @@
     ],
     "tempo": 37,
     "custo": 79,
-    "avaliacao": 4.1,
-    "classe_prato": "entrada",
-    "valor_venda": 139.73,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "53100",
@@ -1895,14 +1471,7 @@
     ],
     "tempo": 46,
     "custo": 86,
-    "avaliacao": 4.9,
-    "classe_prato": "sobremesa",
-    "valor_venda": 202.47,
-    "ingredientes_raros": [
-      "Unwaxed Lemon"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "53311",
@@ -1928,12 +1497,7 @@
     ],
     "tempo": 21,
     "custo": 54,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 124.26,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53385",
@@ -1950,12 +1514,7 @@
     ],
     "tempo": 55,
     "custo": 39,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 72.22,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "52914",
@@ -1970,12 +1529,7 @@
     ],
     "tempo": 18,
     "custo": 19,
-    "avaliacao": 3.9,
-    "classe_prato": "entrada",
-    "valor_venda": 40.36,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53036",
@@ -1996,12 +1550,7 @@
     ],
     "tempo": 48,
     "custo": 79,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 151.4,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "52826",
@@ -2028,16 +1577,7 @@
     ],
     "tempo": 39,
     "custo": 81,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 188.86,
-    "ingredientes_raros": [
-      "Ancho Chillies",
-      "Dark Brown Sugar",
-      "Borlotti Beans"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.2
   },
   {
     "id": "53305",
@@ -2058,16 +1598,7 @@
     ],
     "tempo": 49,
     "custo": 42,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 82.62,
-    "ingredientes_raros": [
-      "Cabbage Leaves",
-      "Cooked Chestnut",
-      "Cranberry"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "52792",
@@ -2086,14 +1617,7 @@
     ],
     "tempo": 56,
     "custo": 69,
-    "avaliacao": 3.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 125.02,
-    "ingredientes_raros": [
-      "sultanas"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.0
   },
   {
     "id": "53076",
@@ -2106,12 +1630,7 @@
     ],
     "tempo": 33,
     "custo": 14,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 25.16,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "52965",
@@ -2130,12 +1649,7 @@
     ],
     "tempo": 33,
     "custo": 77,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 157.78,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "52913",
@@ -2154,15 +1668,7 @@
     ],
     "tempo": 44,
     "custo": 59,
-    "avaliacao": 4.4,
-    "classe_prato": "entrada",
-    "valor_venda": 106.8,
-    "ingredientes_raros": [
-      "Brie",
-      "Prosciutto"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "52842",
@@ -2181,14 +1687,7 @@
     ],
     "tempo": 22,
     "custo": 85,
-    "avaliacao": 3.1,
-    "classe_prato": "entrada",
-    "valor_venda": 175.75,
-    "ingredientes_raros": [
-      "Stilton Cheese"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "52940",
@@ -2211,12 +1710,7 @@
     ],
     "tempo": 14,
     "custo": 93,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 215.6,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "53126",
@@ -2237,12 +1731,7 @@
     ],
     "tempo": 25,
     "custo": 81,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 155.48,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "53190",
@@ -2259,14 +1748,7 @@
     ],
     "tempo": 12,
     "custo": 22,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 39.06,
-    "ingredientes_raros": [
-      "Bryndza cheese"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "52961",
@@ -2284,12 +1766,7 @@
     ],
     "tempo": 13,
     "custo": 61,
-    "avaliacao": 4.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 146.28,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "53060",
@@ -2305,12 +1782,7 @@
     ],
     "tempo": 25,
     "custo": 81,
-    "avaliacao": 4.3,
-    "classe_prato": "entrada",
-    "valor_venda": 162.62,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "53077",
@@ -2331,12 +1803,7 @@
     ],
     "tempo": 40,
     "custo": 16,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 26.76,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.3
   },
   {
     "id": "53256",
@@ -2352,12 +1819,7 @@
     ],
     "tempo": 32,
     "custo": 91,
-    "avaliacao": 4.0,
-    "classe_prato": "entrada",
-    "valor_venda": 149.03,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "52819",
@@ -2379,17 +1841,7 @@
     ],
     "tempo": 25,
     "custo": 96,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 162.02,
-    "ingredientes_raros": [
-      "cajun",
-      "flour tortilla",
-      "little gem lettuce",
-      "salsa"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "53361",
@@ -2409,14 +1861,7 @@
     ],
     "tempo": 19,
     "custo": 33,
-    "avaliacao": 4.7,
-    "classe_prato": "entrada",
-    "valor_venda": 69.36,
-    "ingredientes_raros": [
-      "Callaloo"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "52939",
@@ -2436,12 +1881,7 @@
     ],
     "tempo": 29,
     "custo": 39,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 87.11,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.7
   },
   {
     "id": "52923",
@@ -2459,12 +1899,7 @@
     ],
     "tempo": 33,
     "custo": 85,
-    "avaliacao": 3.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 164.71,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "53141",
@@ -2483,12 +1918,7 @@
     ],
     "tempo": 16,
     "custo": 49,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 80.89,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53360",
@@ -2500,14 +1930,7 @@
     ],
     "tempo": 16,
     "custo": 68,
-    "avaliacao": 3.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 129.56,
-    "ingredientes_raros": [
-      "Tamarind Pulp"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "52897",
@@ -2529,12 +1952,7 @@
     ],
     "tempo": 56,
     "custo": 24,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 57.53,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "52976",
@@ -2550,12 +1968,7 @@
     ],
     "tempo": 29,
     "custo": 22,
-    "avaliacao": 4.9,
-    "classe_prato": "sobremesa",
-    "valor_venda": 44.51,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53330",
@@ -2573,15 +1986,7 @@
     ],
     "tempo": 33,
     "custo": 58,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 137.86,
-    "ingredientes_raros": [
-      "Casabe",
-      "Turkey Ham"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 5.0
   },
   {
     "id": "53055",
@@ -2603,12 +2008,7 @@
     ],
     "tempo": 50,
     "custo": 94,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 215.13,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "52969",
@@ -2629,12 +2029,7 @@
     ],
     "tempo": 41,
     "custo": 84,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 135.17,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "53310",
@@ -2650,14 +2045,7 @@
     ],
     "tempo": 38,
     "custo": 16,
-    "avaliacao": 3.3,
-    "classe_prato": "entrada",
-    "valor_venda": 34.83,
-    "ingredientes_raros": [
-      "Poppy Seeds"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.3
   },
   {
     "id": "53290",
@@ -2675,15 +2063,7 @@
     ],
     "tempo": 10,
     "custo": 62,
-    "avaliacao": 3.3,
-    "classe_prato": "entrada",
-    "valor_venda": 133.01,
-    "ingredientes_raros": [
-      "Emmentaler Cheese",
-      "Phyllo Dough"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.3
   },
   {
     "id": "52898",
@@ -2706,14 +2086,7 @@
     ],
     "tempo": 42,
     "custo": 42,
-    "avaliacao": 4.8,
-    "classe_prato": "sobremesa",
-    "valor_venda": 85.24,
-    "ingredientes_raros": [
-      "White Flour"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "53016",
@@ -2737,12 +2110,7 @@
     ],
     "tempo": 22,
     "custo": 40,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 72.54,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "53161",
@@ -2764,12 +2132,7 @@
     ],
     "tempo": 44,
     "custo": 14,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 29.58,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "52846",
@@ -2790,12 +2153,7 @@
     ],
     "tempo": 32,
     "custo": 65,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 109.8,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.8
   },
   {
     "id": "52796",
@@ -2824,14 +2182,7 @@
     ],
     "tempo": 12,
     "custo": 53,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 103.23,
-    "ingredientes_raros": [
-      "bowtie pasta"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "52934",
@@ -2860,14 +2211,7 @@
     ],
     "tempo": 12,
     "custo": 42,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 82.45,
-    "ingredientes_raros": [
-      "Sun-Dried Tomatoes"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "52956",
@@ -2886,12 +2230,7 @@
     ],
     "tempo": 56,
     "custo": 96,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 226.85,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52850",
@@ -2911,12 +2250,7 @@
     ],
     "tempo": 48,
     "custo": 31,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 71.32,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.1
   },
   {
     "id": "52765",
@@ -2930,15 +2264,7 @@
     ],
     "tempo": 50,
     "custo": 12,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 21.73,
-    "ingredientes_raros": [
-      "Enchilada sauce",
-      "shredded Monterey Jack cheese"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "52818",
@@ -2960,14 +2286,7 @@
     ],
     "tempo": 27,
     "custo": 34,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 68.02,
-    "ingredientes_raros": [
-      "fajita seasoning"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "53367",
@@ -2991,12 +2310,7 @@
     ],
     "tempo": 29,
     "custo": 66,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 115.03,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "52875",
@@ -3023,12 +2337,7 @@
     ],
     "tempo": 50,
     "custo": 57,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 132.82,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "52795",
@@ -3054,14 +2363,7 @@
     ],
     "tempo": 42,
     "custo": 15,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 34.45,
-    "ingredientes_raros": [
-      "fenugreek"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "52831",
@@ -3080,12 +2382,7 @@
     ],
     "tempo": 48,
     "custo": 33,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 60.68,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53358",
@@ -3110,12 +2407,7 @@
     ],
     "tempo": 14,
     "custo": 67,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 141.45,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "52920",
@@ -3132,12 +2424,7 @@
     ],
     "tempo": 13,
     "custo": 46,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 96.01,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.6
   },
   {
     "id": "52879",
@@ -3164,14 +2451,7 @@
     ],
     "tempo": 52,
     "custo": 64,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 110.23,
-    "ingredientes_raros": [
-      "Gruyere cheese"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.2
   },
   {
     "id": "53011",
@@ -3192,12 +2472,7 @@
     ],
     "tempo": 55,
     "custo": 15,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 33.15,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "53218",
@@ -3221,12 +2496,7 @@
     ],
     "tempo": 59,
     "custo": 22,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 44.69,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "53261",
@@ -3242,14 +2512,7 @@
     ],
     "tempo": 25,
     "custo": 53,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 117.81,
-    "ingredientes_raros": [
-      "Chicken Wings"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "53186",
@@ -3269,12 +2532,7 @@
     ],
     "tempo": 53,
     "custo": 93,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 188.26,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "52870",
@@ -3297,12 +2555,7 @@
     ],
     "tempo": 38,
     "custo": 93,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 148.84,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.6
   },
   {
     "id": "53166",
@@ -3325,12 +2578,7 @@
     ],
     "tempo": 21,
     "custo": 95,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 176.64,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.3
   },
   {
     "id": "53265",
@@ -3347,12 +2595,7 @@
     ],
     "tempo": 55,
     "custo": 42,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 67.85,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "52839",
@@ -3375,14 +2618,7 @@
     ],
     "tempo": 20,
     "custo": 12,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 28.12,
-    "ingredientes_raros": [
-      "Fromage Frais"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "53365",
@@ -3412,14 +2648,7 @@
     ],
     "tempo": 40,
     "custo": 56,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 128.97,
-    "ingredientes_raros": [
-      "Orange Juice"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "53372",
@@ -3439,14 +2668,7 @@
     ],
     "tempo": 43,
     "custo": 26,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 58.9,
-    "ingredientes_raros": [
-      "Chicken Bouillon Powder"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.7
   },
   {
     "id": "52910",
@@ -3463,14 +2685,7 @@
     ],
     "tempo": 30,
     "custo": 94,
-    "avaliacao": 3.8,
-    "classe_prato": "sobremesa",
-    "valor_venda": 173.53,
-    "ingredientes_raros": [
-      "Red Wine Jelly"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.8
   },
   {
     "id": "53319",
@@ -3500,14 +2715,7 @@
     ],
     "tempo": 53,
     "custo": 56,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 92.2,
-    "ingredientes_raros": [
-      "Bread Flour"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.2
   },
   {
     "id": "53063",
@@ -3527,12 +2735,7 @@
     ],
     "tempo": 32,
     "custo": 67,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 154.26,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.3
   },
   {
     "id": "52856",
@@ -3554,14 +2757,7 @@
     ],
     "tempo": 34,
     "custo": 65,
-    "avaliacao": 4.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 153.24,
-    "ingredientes_raros": [
-      "Dark Chocolate Chips"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "53320",
@@ -3584,12 +2780,7 @@
     ],
     "tempo": 43,
     "custo": 100,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 166.85,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "52853",
@@ -3607,12 +2798,7 @@
     ],
     "tempo": 52,
     "custo": 13,
-    "avaliacao": 4.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 25.85,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.0
   },
   {
     "id": "52966",
@@ -3626,15 +2812,7 @@
     ],
     "tempo": 40,
     "custo": 32,
-    "avaliacao": 4.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 52.97,
-    "ingredientes_raros": [
-      "Mars Bar",
-      "Rice Krispies"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.5
   },
   {
     "id": "53170",
@@ -3657,12 +2835,7 @@
     ],
     "tempo": 42,
     "custo": 52,
-    "avaliacao": 5.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 114.84,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 5.0
   },
   {
     "id": "53101",
@@ -3683,12 +2856,7 @@
     ],
     "tempo": 46,
     "custo": 41,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 90.72,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "53324",
@@ -3708,12 +2876,7 @@
     ],
     "tempo": 11,
     "custo": 77,
-    "avaliacao": 3.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 131.11,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.3
   },
   {
     "id": "52776",
@@ -3729,12 +2892,7 @@
     ],
     "tempo": 26,
     "custo": 17,
-    "avaliacao": 4.9,
-    "classe_prato": "sobremesa",
-    "valor_venda": 33.66,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "52860",
@@ -3752,12 +2910,7 @@
     ],
     "tempo": 32,
     "custo": 99,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 201.94,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "52905",
@@ -3779,12 +2932,7 @@
     ],
     "tempo": 40,
     "custo": 92,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 166.71,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "53289",
@@ -3812,14 +2960,7 @@
     ],
     "tempo": 49,
     "custo": 81,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 186.13,
-    "ingredientes_raros": [
-      "Freekeh"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.0
   },
   {
     "id": "53136",
@@ -3832,12 +2973,7 @@
     ],
     "tempo": 54,
     "custo": 86,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 166.71,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "53168",
@@ -3854,14 +2990,7 @@
     ],
     "tempo": 22,
     "custo": 99,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 175.17,
-    "ingredientes_raros": [
-      "Savoy Cabbage"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.5
   },
   {
     "id": "53157",
@@ -3878,12 +3007,7 @@
     ],
     "tempo": 14,
     "custo": 91,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 184.86,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53185",
@@ -3899,14 +3023,7 @@
     ],
     "tempo": 41,
     "custo": 42,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 91.73,
-    "ingredientes_raros": [
-      "Beef tomatoes"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53159",
@@ -3922,12 +3039,7 @@
     ],
     "tempo": 26,
     "custo": 39,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 68.68,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "52990",
@@ -3953,15 +3065,7 @@
     ],
     "tempo": 55,
     "custo": 65,
-    "avaliacao": 3.9,
-    "classe_prato": "sobremesa",
-    "valor_venda": 120.21,
-    "ingredientes_raros": [
-      "Sherry",
-      "Mixed Spice"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.9
   },
   {
     "id": "52788",
@@ -3977,15 +3081,7 @@
     ],
     "tempo": 15,
     "custo": 38,
-    "avaliacao": 4.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 91.05,
-    "ingredientes_raros": [
-      "dark soft brown sugar",
-      "rolled oats"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.6
   },
   {
     "id": "52989",
@@ -4004,12 +3100,7 @@
     ],
     "tempo": 11,
     "custo": 50,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 106.0,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.4
   },
   {
     "id": "53283",
@@ -4031,12 +3122,7 @@
     ],
     "tempo": 19,
     "custo": 41,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 79.97,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.8
   },
   {
     "id": "53153",
@@ -4059,12 +3145,7 @@
     ],
     "tempo": 58,
     "custo": 59,
-    "avaliacao": 3.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 118.83,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "53116",
@@ -4088,14 +3169,7 @@
     ],
     "tempo": 47,
     "custo": 60,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 101.81,
-    "ingredientes_raros": [
-      "Strong White Flour"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "52840",
@@ -4116,12 +3190,7 @@
     ],
     "tempo": 42,
     "custo": 30,
-    "avaliacao": 4.9,
-    "classe_prato": "entrada",
-    "valor_venda": 53.39,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "53154",
@@ -4141,12 +3210,7 @@
     ],
     "tempo": 45,
     "custo": 14,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 26.19,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.9
   },
   {
     "id": "52988",
@@ -4167,12 +3231,7 @@
     ],
     "tempo": 16,
     "custo": 52,
-    "avaliacao": 3.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 107.67,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "53343",
@@ -4197,14 +3256,7 @@
     ],
     "tempo": 31,
     "custo": 44,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 78.5,
-    "ingredientes_raros": [
-      "Dried Leaves Of Summer Savoury"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "53037",
@@ -4224,14 +3276,7 @@
     ],
     "tempo": 58,
     "custo": 66,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 117.23,
-    "ingredientes_raros": [
-      "Cider"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "52832",
@@ -4259,12 +3304,7 @@
     ],
     "tempo": 30,
     "custo": 77,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 127.57,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "52977",
@@ -4287,12 +3327,7 @@
     ],
     "tempo": 31,
     "custo": 70,
-    "avaliacao": 4.0,
-    "classe_prato": "entrada",
-    "valor_venda": 147.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "52998",
@@ -4306,12 +3341,7 @@
     ],
     "tempo": 27,
     "custo": 28,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 49.93,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 5.0
   },
   {
     "id": "53350",
@@ -4332,12 +3362,7 @@
     ],
     "tempo": 53,
     "custo": 25,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 58.11,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "53096",
@@ -4354,12 +3379,7 @@
     ],
     "tempo": 36,
     "custo": 29,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 66.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "53291",
@@ -4382,12 +3402,7 @@
     ],
     "tempo": 39,
     "custo": 55,
-    "avaliacao": 3.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 91.12,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52779",
@@ -4409,12 +3424,7 @@
     ],
     "tempo": 32,
     "custo": 27,
-    "avaliacao": 3.1,
-    "classe_prato": "entrada",
-    "valor_venda": 48.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "52841",
@@ -4437,12 +3447,7 @@
     ],
     "tempo": 25,
     "custo": 97,
-    "avaliacao": 3.4,
-    "classe_prato": "entrada",
-    "valor_venda": 207.11,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "53148",
@@ -4461,12 +3466,7 @@
     ],
     "tempo": 55,
     "custo": 74,
-    "avaliacao": 3.8,
-    "classe_prato": "sobremesa",
-    "valor_venda": 131.08,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.8
   },
   {
     "id": "53072",
@@ -4483,12 +3483,7 @@
     ],
     "tempo": 28,
     "custo": 82,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 139.88,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "52999",
@@ -4507,12 +3502,7 @@
     ],
     "tempo": 52,
     "custo": 73,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 171.43,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.3
   },
   {
     "id": "53058",
@@ -4529,12 +3519,7 @@
     ],
     "tempo": 48,
     "custo": 58,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 119.3,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53056",
@@ -4557,12 +3542,7 @@
     ],
     "tempo": 47,
     "custo": 65,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 128.58,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "52830",
@@ -4586,18 +3566,7 @@
     ],
     "tempo": 25,
     "custo": 90,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 200.49,
-    "ingredientes_raros": [
-      "Vinaigrette Dressing",
-      "Refried Beans",
-      "Hard Taco Shells",
-      "Grape Tomatoes",
-      "Green Salsa"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53309",
@@ -4614,12 +3583,7 @@
     ],
     "tempo": 53,
     "custo": 92,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 206.63,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.8
   },
   {
     "id": "53098",
@@ -4644,16 +3608,7 @@
     ],
     "tempo": 16,
     "custo": 12,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 21.03,
-    "ingredientes_raros": [
-      "Beef Stock Cubes",
-      "Feather blade beef",
-      "Mature Cheddar"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "52785",
@@ -4679,15 +3634,7 @@
     ],
     "tempo": 55,
     "custo": 80,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 134.2,
-    "ingredientes_raros": [
-      "Toor dal",
-      "Mustard Seeds"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "53338",
@@ -4706,15 +3653,7 @@
     ],
     "tempo": 35,
     "custo": 59,
-    "avaliacao": 4.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 114.75,
-    "ingredientes_raros": [
-      "Pitted Dates",
-      "Oats"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "53193",
@@ -4735,14 +3674,7 @@
     ],
     "tempo": 33,
     "custo": 25,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 48.47,
-    "ingredientes_raros": [
-      "Flat Rice Noodles"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.3
   },
   {
     "id": "52907",
@@ -4758,12 +3690,7 @@
     ],
     "tempo": 32,
     "custo": 92,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 181.57,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53137",
@@ -4777,12 +3704,7 @@
     ],
     "tempo": 42,
     "custo": 90,
-    "avaliacao": 4.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 196.49,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.6
   },
   {
     "id": "52899",
@@ -4806,12 +3728,7 @@
     ],
     "tempo": 11,
     "custo": 75,
-    "avaliacao": 4.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 160.4,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "53386",
@@ -4830,12 +3747,7 @@
     ],
     "tempo": 15,
     "custo": 51,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 121.75,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "53393",
@@ -4850,12 +3762,7 @@
     ],
     "tempo": 13,
     "custo": 18,
-    "avaliacao": 4.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 30.22,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "53379",
@@ -4874,14 +3781,7 @@
     ],
     "tempo": 57,
     "custo": 49,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 94.18,
-    "ingredientes_raros": [
-      "Buckwheat Flour"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "53387",
@@ -4899,12 +3799,7 @@
     ],
     "tempo": 14,
     "custo": 14,
-    "avaliacao": 3.8,
-    "classe_prato": "sobremesa",
-    "valor_venda": 26.2,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.8
   },
   {
     "id": "53382",
@@ -4925,14 +3820,7 @@
     ],
     "tempo": 51,
     "custo": 44,
-    "avaliacao": 3.8,
-    "classe_prato": "sobremesa",
-    "valor_venda": 100.73,
-    "ingredientes_raros": [
-      "Dutch Stroop"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.8
   },
   {
     "id": "53285",
@@ -4961,12 +3849,7 @@
     ],
     "tempo": 28,
     "custo": 78,
-    "avaliacao": 4.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 140.32,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "53143",
@@ -4988,12 +3871,7 @@
     ],
     "tempo": 48,
     "custo": 38,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 66.58,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "52888",
@@ -5016,12 +3894,7 @@
     ],
     "tempo": 26,
     "custo": 75,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 146.92,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "52955",
@@ -5041,12 +3914,7 @@
     ],
     "tempo": 44,
     "custo": 94,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 182.13,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "53370",
@@ -5073,16 +3941,7 @@
     ],
     "tempo": 27,
     "custo": 93,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 169.52,
-    "ingredientes_raros": [
-      "Unsalted Beef Stock",
-      "Shaoxing Wine",
-      "Mung Bean Sprouts"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.2
   },
   {
     "id": "53073",
@@ -5102,12 +3961,7 @@
     ],
     "tempo": 43,
     "custo": 71,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 127.79,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "53031",
@@ -5132,12 +3986,7 @@
     ],
     "tempo": 57,
     "custo": 56,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 130.96,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "53134",
@@ -5159,12 +4008,7 @@
     ],
     "tempo": 12,
     "custo": 18,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 35.18,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "52895",
@@ -5181,12 +4025,7 @@
     ],
     "tempo": 13,
     "custo": 17,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 38.91,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "53149",
@@ -5202,12 +4041,7 @@
     ],
     "tempo": 31,
     "custo": 97,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 197.91,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.5
   },
   {
     "id": "52944",
@@ -5234,15 +4068,7 @@
     ],
     "tempo": 34,
     "custo": 48,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 78.74,
-    "ingredientes_raros": [
-      "Red Snapper",
-      "Malt Vinegar"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.3
   },
   {
     "id": "52791",
@@ -5257,12 +4083,7 @@
     ],
     "tempo": 40,
     "custo": 90,
-    "avaliacao": 3.9,
-    "classe_prato": "sobremesa",
-    "valor_venda": 215.95,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53254",
@@ -5285,15 +4106,7 @@
     ],
     "tempo": 37,
     "custo": 38,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 86.22,
-    "ingredientes_raros": [
-      "Pomegranate Molasses",
-      "Sumac"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.8
   },
   {
     "id": "53139",
@@ -5308,14 +4121,7 @@
     ],
     "tempo": 26,
     "custo": 39,
-    "avaliacao": 4.7,
-    "classe_prato": "entrada",
-    "valor_venda": 92.63,
-    "ingredientes_raros": [
-      "Chickpea Flour"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "53266",
@@ -5333,12 +4139,7 @@
     ],
     "tempo": 38,
     "custo": 33,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 77.26,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "53091",
@@ -5361,14 +4162,7 @@
     ],
     "tempo": 17,
     "custo": 43,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 98.0,
-    "ingredientes_raros": [
-      "Falafel"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "53123",
@@ -5384,14 +4178,7 @@
     ],
     "tempo": 33,
     "custo": 83,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 143.84,
-    "ingredientes_raros": [
-      "Whole black peppercorns"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "53188",
@@ -5416,12 +4203,7 @@
     ],
     "tempo": 43,
     "custo": 68,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 135.22,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.9
   },
   {
     "id": "53092",
@@ -5436,12 +4218,7 @@
     ],
     "tempo": 23,
     "custo": 88,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 155.85,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "52919",
@@ -5458,12 +4235,7 @@
     ],
     "tempo": 17,
     "custo": 58,
-    "avaliacao": 3.6,
-    "classe_prato": "entrada",
-    "valor_venda": 111.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53030",
@@ -5478,12 +4250,7 @@
     ],
     "tempo": 52,
     "custo": 73,
-    "avaliacao": 3.1,
-    "classe_prato": "entrada",
-    "valor_venda": 120.22,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "53064",
@@ -5499,12 +4266,7 @@
     ],
     "tempo": 19,
     "custo": 72,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 137.03,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "52835",
@@ -5521,14 +4283,7 @@
     ],
     "tempo": 29,
     "custo": 40,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 95.53,
-    "ingredientes_raros": [
-      "Clotted Cream"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.5
   },
   {
     "id": "53342",
@@ -5548,12 +4303,7 @@
     ],
     "tempo": 60,
     "custo": 72,
-    "avaliacao": 4.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 130.48,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "53043",
@@ -5575,12 +4325,7 @@
     ],
     "tempo": 45,
     "custo": 88,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 196.0,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "52802",
@@ -5605,15 +4350,7 @@
     ],
     "tempo": 36,
     "custo": 70,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 137.48,
-    "ingredientes_raros": [
-      "Semi-skimmed Milk",
-      "White Fish Fillets"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "53079",
@@ -5632,12 +4369,7 @@
     ],
     "tempo": 36,
     "custo": 42,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 81.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "52918",
@@ -5665,12 +4397,7 @@
     ],
     "tempo": 23,
     "custo": 83,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 196.37,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "53122",
@@ -5692,14 +4419,7 @@
     ],
     "tempo": 32,
     "custo": 31,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 74.29,
-    "ingredientes_raros": [
-      "Fish fillet"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.3
   },
   {
     "id": "52906",
@@ -5722,12 +4442,7 @@
     ],
     "tempo": 20,
     "custo": 70,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 143.12,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.2
   },
   {
     "id": "53322",
@@ -5744,12 +4459,7 @@
     ],
     "tempo": 39,
     "custo": 33,
-    "avaliacao": 5.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 71.77,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 5.0
   },
   {
     "id": "53341",
@@ -5772,15 +4482,7 @@
     ],
     "tempo": 59,
     "custo": 20,
-    "avaliacao": 4.8,
-    "classe_prato": "sobremesa",
-    "valor_venda": 34.48,
-    "ingredientes_raros": [
-      "Graham Cracker Crumbs",
-      "Cream Of Tartar"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "52815",
@@ -5799,14 +4501,7 @@
     ],
     "tempo": 17,
     "custo": 99,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 181.9,
-    "ingredientes_raros": [
-      "French Lentils"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "52915",
@@ -5823,14 +4518,7 @@
     ],
     "tempo": 30,
     "custo": 33,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 78.37,
-    "ingredientes_raros": [
-      "Tarragon Leaves"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "52996",
@@ -5852,12 +4540,7 @@
     ],
     "tempo": 37,
     "custo": 29,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 59.84,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "52903",
@@ -5877,12 +4560,7 @@
     ],
     "tempo": 56,
     "custo": 60,
-    "avaliacao": 5.0,
-    "classe_prato": "entrada",
-    "valor_venda": 122.03,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 5.0
   },
   {
     "id": "53061",
@@ -5896,12 +4574,7 @@
     ],
     "tempo": 29,
     "custo": 15,
-    "avaliacao": 4.7,
-    "classe_prato": "entrada",
-    "valor_venda": 32.98,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "53178",
@@ -5918,12 +4591,7 @@
     ],
     "tempo": 48,
     "custo": 39,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 64.18,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "52957",
@@ -5941,12 +4609,7 @@
     ],
     "tempo": 14,
     "custo": 64,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 132.31,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "53025",
@@ -5962,12 +4625,7 @@
     ],
     "tempo": 37,
     "custo": 87,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 174.2,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "52896",
@@ -5985,14 +4643,7 @@
     ],
     "tempo": 38,
     "custo": 56,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 127.8,
-    "ingredientes_raros": [
-      "Baked Beans"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53131",
@@ -6015,12 +4666,7 @@
     ],
     "tempo": 24,
     "custo": 39,
-    "avaliacao": 4.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 67.31,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "53144",
@@ -6035,12 +4681,7 @@
     ],
     "tempo": 52,
     "custo": 61,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 144.49,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.7
   },
   {
     "id": "52764",
@@ -6058,14 +4699,7 @@
     ],
     "tempo": 36,
     "custo": 93,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 154.76,
-    "ingredientes_raros": [
-      "Cubed Feta cheese"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "53180",
@@ -6080,12 +4714,7 @@
     ],
     "tempo": 35,
     "custo": 79,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 138.14,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.6
   },
   {
     "id": "52951",
@@ -6115,14 +4744,7 @@
     ],
     "tempo": 47,
     "custo": 55,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 114.18,
-    "ingredientes_raros": [
-      "Gochujang"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53381",
@@ -6142,15 +4764,7 @@
     ],
     "tempo": 59,
     "custo": 17,
-    "avaliacao": 4.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 36.38,
-    "ingredientes_raros": [
-      "Speculaas Spice Mix",
-      "Almond Paste"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.3
   },
   {
     "id": "53012",
@@ -6170,12 +4784,7 @@
     ],
     "tempo": 27,
     "custo": 38,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 67.95,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "53021",
@@ -6195,12 +4804,7 @@
     ],
     "tempo": 43,
     "custo": 91,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 154.33,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.7
   },
   {
     "id": "53346",
@@ -6214,14 +4818,7 @@
     ],
     "tempo": 27,
     "custo": 65,
-    "avaliacao": 3.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 150.29,
-    "ingredientes_raros": [
-      "Grape Nut Cereal"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53274",
@@ -6240,12 +4837,7 @@
     ],
     "tempo": 55,
     "custo": 73,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 131.18,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.1
   },
   {
     "id": "53272",
@@ -6260,14 +4852,7 @@
     ],
     "tempo": 10,
     "custo": 25,
-    "avaliacao": 4.9,
-    "classe_prato": "entrada",
-    "valor_venda": 51.89,
-    "ingredientes_raros": [
-      "Strong Wholemeal Flour"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53255",
@@ -6290,12 +4875,7 @@
     ],
     "tempo": 53,
     "custo": 96,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 201.17,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.0
   },
   {
     "id": "53074",
@@ -6311,12 +4891,7 @@
     ],
     "tempo": 40,
     "custo": 22,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 42.58,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "52829",
@@ -6343,15 +4918,7 @@
     ],
     "tempo": 41,
     "custo": 47,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 97.15,
-    "ingredientes_raros": [
-      "Monterey Jack Cheese",
-      "Colby Jack Cheese"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.8
   },
   {
     "id": "53041",
@@ -6368,12 +4935,7 @@
     ],
     "tempo": 50,
     "custo": 88,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 177.6,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "53179",
@@ -6394,12 +4956,7 @@
     ],
     "tempo": 58,
     "custo": 64,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 150.26,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "53035",
@@ -6418,12 +4975,7 @@
     ],
     "tempo": 22,
     "custo": 80,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 141.07,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "53340",
@@ -6444,12 +4996,7 @@
     ],
     "tempo": 59,
     "custo": 93,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 202.08,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "52967",
@@ -6463,12 +5010,7 @@
     ],
     "tempo": 28,
     "custo": 84,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 150.44,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "52993",
@@ -6488,12 +5030,7 @@
     ],
     "tempo": 28,
     "custo": 53,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 101.58,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.7
   },
   {
     "id": "52773",
@@ -6508,12 +5045,7 @@
     ],
     "tempo": 33,
     "custo": 87,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 185.95,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53007",
@@ -6533,12 +5065,7 @@
     ],
     "tempo": 40,
     "custo": 88,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 161.92,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "52954",
@@ -6563,14 +5090,7 @@
     ],
     "tempo": 56,
     "custo": 28,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 51.88,
-    "ingredientes_raros": [
-      "Wood Ear Mushrooms"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.0
   },
   {
     "id": "52787",
@@ -6586,12 +5106,7 @@
     ],
     "tempo": 42,
     "custo": 45,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 99.07,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "53258",
@@ -6612,14 +5127,7 @@
     ],
     "tempo": 37,
     "custo": 37,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 61.35,
-    "ingredientes_raros": [
-      "Sweet Peppadew Peppers"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53269",
@@ -6634,12 +5142,7 @@
     ],
     "tempo": 16,
     "custo": 12,
-    "avaliacao": 4.6,
-    "classe_prato": "entrada",
-    "valor_venda": 23.6,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.6
   },
   {
     "id": "53253",
@@ -6662,12 +5165,7 @@
     ],
     "tempo": 21,
     "custo": 19,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 45.58,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "52781",
@@ -6690,15 +5188,7 @@
     ],
     "tempo": 18,
     "custo": 16,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 38.35,
-    "ingredientes_raros": [
-      "whole wheat",
-      "charlotte potatoes"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "53339",
@@ -6720,12 +5210,7 @@
     ],
     "tempo": 12,
     "custo": 86,
-    "avaliacao": 3.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 142.64,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "52890",
@@ -6742,12 +5227,7 @@
     ],
     "tempo": 16,
     "custo": 79,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 139.87,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.5
   },
   {
     "id": "53351",
@@ -6765,12 +5245,7 @@
     ],
     "tempo": 36,
     "custo": 44,
-    "avaliacao": 4.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 79.74,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "52938",
@@ -6800,12 +5275,7 @@
     ],
     "tempo": 37,
     "custo": 78,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 183.04,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "53353",
@@ -6820,12 +5290,7 @@
     ],
     "tempo": 54,
     "custo": 75,
-    "avaliacao": 4.4,
-    "classe_prato": "entrada",
-    "valor_venda": 172.85,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53363",
@@ -6843,15 +5308,7 @@
     ],
     "tempo": 30,
     "custo": 87,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 200.4,
-    "ingredientes_raros": [
-      "Fine Yellow Cornmeal",
-      "Sweetened Condensed Milk"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53345",
@@ -6875,12 +5332,7 @@
     ],
     "tempo": 52,
     "custo": 64,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 121.32,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "53354",
@@ -6904,12 +5356,7 @@
     ],
     "tempo": 50,
     "custo": 81,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 139.82,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "53362",
@@ -6933,15 +5380,7 @@
     ],
     "tempo": 50,
     "custo": 44,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 99.75,
-    "ingredientes_raros": [
-      "Jumbo Shrimp",
-      "Unsweetened Coconut Milk"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "53355",
@@ -6959,12 +5398,7 @@
     ],
     "tempo": 48,
     "custo": 68,
-    "avaliacao": 4.1,
-    "classe_prato": "entrada",
-    "valor_venda": 147.07,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "53356",
@@ -6979,12 +5413,7 @@
     ],
     "tempo": 49,
     "custo": 30,
-    "avaliacao": 3.4,
-    "classe_prato": "entrada",
-    "valor_venda": 62.68,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "53352",
@@ -7006,12 +5435,7 @@
     ],
     "tempo": 14,
     "custo": 78,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 186.4,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53349",
@@ -7032,15 +5456,7 @@
     ],
     "tempo": 18,
     "custo": 80,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 169.85,
-    "ingredientes_raros": [
-      "Ground Annatto",
-      "Shrimp Stock"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "53357",
@@ -7060,12 +5476,7 @@
     ],
     "tempo": 34,
     "custo": 17,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 27.31,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "53348",
@@ -7091,16 +5502,7 @@
     ],
     "tempo": 20,
     "custo": 47,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 105.92,
-    "ingredientes_raros": [
-      "Beer",
-      "Caramelized Sugar Sauce",
-      "Dried Cherries"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "53364",
@@ -7123,12 +5525,7 @@
     ],
     "tempo": 11,
     "custo": 64,
-    "avaliacao": 4.4,
-    "classe_prato": "entrada",
-    "valor_venda": 117.73,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.4
   },
   {
     "id": "53344",
@@ -7153,12 +5550,7 @@
     ],
     "tempo": 22,
     "custo": 40,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 85.23,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53145",
@@ -7177,15 +5569,7 @@
     ],
     "tempo": 43,
     "custo": 87,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 204.55,
-    "ingredientes_raros": [
-      "Wild Garlic Leaves",
-      "manchego"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "53033",
@@ -7199,12 +5583,7 @@
     ],
     "tempo": 58,
     "custo": 89,
-    "avaliacao": 4.3,
-    "classe_prato": "entrada",
-    "valor_venda": 151.96,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.3
   },
   {
     "id": "53034",
@@ -7224,12 +5603,7 @@
     ],
     "tempo": 38,
     "custo": 54,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 91.39,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.3
   },
   {
     "id": "52937",
@@ -7259,12 +5633,7 @@
     ],
     "tempo": 58,
     "custo": 35,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 59.0,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.6
   },
   {
     "id": "53335",
@@ -7282,14 +5651,7 @@
     ],
     "tempo": 57,
     "custo": 65,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 132.77,
-    "ingredientes_raros": [
-      "Yellow Split Peas"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "53220",
@@ -7311,14 +5673,7 @@
     ],
     "tempo": 30,
     "custo": 16,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 29.09,
-    "ingredientes_raros": [
-      "Kabse Spice"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "52971",
@@ -7337,14 +5692,7 @@
     ],
     "tempo": 42,
     "custo": 76,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 158.37,
-    "ingredientes_raros": [
-      "Ras el hanout"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.2
   },
   {
     "id": "52769",
@@ -7362,15 +5710,7 @@
     ],
     "tempo": 52,
     "custo": 17,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 36.96,
-    "ingredientes_raros": [
-      "Fries",
-      "Doner Meat"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "53125",
@@ -7389,12 +5729,7 @@
     ],
     "tempo": 22,
     "custo": 81,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 142.79,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "52820",
@@ -7420,14 +5755,7 @@
     ],
     "tempo": 58,
     "custo": 43,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 90.62,
-    "ingredientes_raros": [
-      "carrot"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "52887",
@@ -7448,12 +5776,7 @@
     ],
     "tempo": 59,
     "custo": 89,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 161.2,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52974",
@@ -7471,12 +5794,7 @@
     ],
     "tempo": 50,
     "custo": 95,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 189.13,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "52813",
@@ -7503,12 +5821,7 @@
     ],
     "tempo": 56,
     "custo": 32,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 74.38,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53112",
@@ -7532,14 +5845,7 @@
     ],
     "tempo": 42,
     "custo": 66,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 150.27,
-    "ingredientes_raros": [
-      "Sirloin Steak tips"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.0
   },
   {
     "id": "52859",
@@ -7557,12 +5863,7 @@
     ],
     "tempo": 52,
     "custo": 93,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 155.67,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "53286",
@@ -7585,12 +5886,7 @@
     ],
     "tempo": 12,
     "custo": 23,
-    "avaliacao": 3.4,
-    "classe_prato": "entrada",
-    "valor_venda": 44.59,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "52868",
@@ -7611,12 +5907,7 @@
     ],
     "tempo": 51,
     "custo": 49,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 89.25,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.8
   },
   {
     "id": "53216",
@@ -7638,15 +5929,7 @@
     ],
     "tempo": 10,
     "custo": 17,
-    "avaliacao": 3.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 27.25,
-    "ingredientes_raros": [
-      "Knafeh",
-      "Yellow Food Colouring"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53257",
@@ -7667,12 +5950,7 @@
     ],
     "tempo": 54,
     "custo": 47,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 104.19,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.1
   },
   {
     "id": "53027",
@@ -7690,12 +5968,7 @@
     ],
     "tempo": 47,
     "custo": 32,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 67.51,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.9
   },
   {
     "id": "53015",
@@ -7719,14 +5992,7 @@
     ],
     "tempo": 57,
     "custo": 22,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 39.81,
-    "ingredientes_raros": [
-      "Shortening"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "52978",
@@ -7742,12 +6008,7 @@
     ],
     "tempo": 29,
     "custo": 75,
-    "avaliacao": 4.2,
-    "classe_prato": "entrada",
-    "valor_venda": 164.47,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "52945",
@@ -7770,12 +6031,7 @@
     ],
     "tempo": 48,
     "custo": 12,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 24.5,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52946",
@@ -7797,12 +6053,7 @@
     ],
     "tempo": 52,
     "custo": 99,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 192.27,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "53128",
@@ -7828,12 +6079,7 @@
     ],
     "tempo": 45,
     "custo": 48,
-    "avaliacao": 3.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 77.17,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "52821",
@@ -7853,12 +6099,7 @@
     ],
     "tempo": 29,
     "custo": 31,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 51.47,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "53277",
@@ -7880,12 +6121,7 @@
     ],
     "tempo": 15,
     "custo": 95,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 219.12,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "53009",
@@ -7902,12 +6138,7 @@
     ],
     "tempo": 42,
     "custo": 85,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 197.47,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.7
   },
   {
     "id": "52877",
@@ -7926,12 +6157,7 @@
     ],
     "tempo": 57,
     "custo": 17,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 34.62,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "52805",
@@ -7961,17 +6187,7 @@
     ],
     "tempo": 44,
     "custo": 44,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 99.78,
-    "ingredientes_raros": [
-      "Khus khus",
-      "Ginger garlic paste",
-      "Full fat yogurt",
-      "Biryani masala"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "53083",
@@ -7992,12 +6208,7 @@
     ],
     "tempo": 24,
     "custo": 52,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 107.43,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "52808",
@@ -8021,15 +6232,7 @@
     ],
     "tempo": 49,
     "custo": 55,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 94.52,
-    "ingredientes_raros": [
-      "Madras Paste",
-      "Tomato Purée"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.8
   },
   {
     "id": "52843",
@@ -8054,12 +6257,7 @@
     ],
     "tempo": 27,
     "custo": 48,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 81.69,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "52782",
@@ -8088,15 +6286,7 @@
     ],
     "tempo": 45,
     "custo": 89,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 164.35,
-    "ingredientes_raros": [
-      "vine leaves",
-      "clove"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "53010",
@@ -8117,15 +6307,7 @@
     ],
     "tempo": 60,
     "custo": 87,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 201.77,
-    "ingredientes_raros": [
-      "Bulgur Wheat",
-      "Bun"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.0
   },
   {
     "id": "53104",
@@ -8149,12 +6331,7 @@
     ],
     "tempo": 27,
     "custo": 27,
-    "avaliacao": 4.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 60.4,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "52884",
@@ -8174,12 +6351,7 @@
     ],
     "tempo": 35,
     "custo": 82,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 187.66,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "52987",
@@ -8198,12 +6370,7 @@
     ],
     "tempo": 20,
     "custo": 49,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 113.64,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "52844",
@@ -8228,12 +6395,7 @@
     ],
     "tempo": 12,
     "custo": 23,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 40.67,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.5
   },
   {
     "id": "52973",
@@ -8253,12 +6415,7 @@
     ],
     "tempo": 32,
     "custo": 22,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 39.59,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "53211",
@@ -8281,14 +6438,7 @@
     ],
     "tempo": 58,
     "custo": 23,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 38.69,
-    "ingredientes_raros": [
-      "Five Spice Powder"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "53146",
@@ -8309,14 +6459,7 @@
     ],
     "tempo": 18,
     "custo": 87,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 193.5,
-    "ingredientes_raros": [
-      "Dried white corn"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "52947",
@@ -8343,15 +6486,7 @@
     ],
     "tempo": 20,
     "custo": 60,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 138.44,
-    "ingredientes_raros": [
-      "Doubanjiang",
-      "Fermented Black Beans"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "52900",
@@ -8368,12 +6503,7 @@
     ],
     "tempo": 26,
     "custo": 84,
-    "avaliacao": 3.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 161.71,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53221",
@@ -8389,12 +6519,7 @@
     ],
     "tempo": 22,
     "custo": 100,
-    "avaliacao": 4.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 209.65,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "52827",
@@ -8417,14 +6542,7 @@
     ],
     "tempo": 31,
     "custo": 28,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 48.26,
-    "ingredientes_raros": [
-      "Massaman curry paste"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.7
   },
   {
     "id": "53140",
@@ -8441,14 +6559,7 @@
     ],
     "tempo": 29,
     "custo": 45,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 105.48,
-    "ingredientes_raros": [
-      "Beef Flank Steak"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "52865",
@@ -8470,14 +6581,7 @@
     ],
     "tempo": 40,
     "custo": 17,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 38.96,
-    "ingredientes_raros": [
-      "Paneer"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 5.0
   },
   {
     "id": "53132",
@@ -8501,14 +6605,7 @@
     ],
     "tempo": 39,
     "custo": 50,
-    "avaliacao": 4.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 119.05,
-    "ingredientes_raros": [
-      "Almond Flour"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "52968",
@@ -8525,12 +6622,7 @@
     ],
     "tempo": 21,
     "custo": 40,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 89.94,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "52880",
@@ -8556,12 +6648,7 @@
     ],
     "tempo": 13,
     "custo": 43,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 99.12,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 5.0
   },
   {
     "id": "52777",
@@ -8580,16 +6667,7 @@
     ],
     "tempo": 52,
     "custo": 95,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 153.88,
-    "ingredientes_raros": [
-      "baby plum tomatoes",
-      "fresh basil",
-      "farfalle"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "53048",
@@ -8614,12 +6692,7 @@
     ],
     "tempo": 40,
     "custo": 31,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 67.87,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.6
   },
   {
     "id": "53086",
@@ -8633,12 +6706,7 @@
     ],
     "tempo": 33,
     "custo": 55,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 102.62,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53135",
@@ -8655,14 +6723,7 @@
     ],
     "tempo": 33,
     "custo": 99,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 232.12,
-    "ingredientes_raros": [
-      "Beef Cutlet"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "52991",
@@ -8678,12 +6739,7 @@
     ],
     "tempo": 25,
     "custo": 50,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 112.09,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "52876",
@@ -8703,12 +6759,7 @@
     ],
     "tempo": 35,
     "custo": 87,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 199.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.8
   },
   {
     "id": "53304",
@@ -8726,12 +6777,7 @@
     ],
     "tempo": 49,
     "custo": 26,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 58.46,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "53109",
@@ -8754,15 +6800,7 @@
     ],
     "tempo": 22,
     "custo": 11,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 19.95,
-    "ingredientes_raros": [
-      "Ready rolled shortcrust pastry",
-      "Chopped Chive"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "53336",
@@ -8781,14 +6819,7 @@
     ],
     "tempo": 46,
     "custo": 67,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 149.4,
-    "ingredientes_raros": [
-      "Dried White Navy Beans"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "52927",
@@ -8814,12 +6845,7 @@
     ],
     "tempo": 44,
     "custo": 59,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 99.5,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "53047",
@@ -8837,12 +6863,7 @@
     ],
     "tempo": 13,
     "custo": 98,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 225.18,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "53006",
@@ -8860,12 +6881,7 @@
     ],
     "tempo": 57,
     "custo": 13,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 29.73,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.2
   },
   {
     "id": "53029",
@@ -8882,14 +6898,7 @@
     ],
     "tempo": 18,
     "custo": 60,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 106.68,
-    "ingredientes_raros": [
-      "Mulukhiyah"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "52864",
@@ -8911,16 +6920,7 @@
     ],
     "tempo": 19,
     "custo": 12,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 27.04,
-    "ingredientes_raros": [
-      "Chestnuts",
-      "Wild Mushrooms",
-      "Truffle Oil"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53059",
@@ -8940,12 +6940,7 @@
     ],
     "tempo": 27,
     "custo": 12,
-    "avaliacao": 4.3,
-    "classe_prato": "entrada",
-    "valor_venda": 23.62,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "53038",
@@ -8961,12 +6956,7 @@
     ],
     "tempo": 19,
     "custo": 64,
-    "avaliacao": 3.7,
-    "classe_prato": "entrada",
-    "valor_venda": 118.03,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "53223",
@@ -8991,12 +6981,7 @@
     ],
     "tempo": 51,
     "custo": 82,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 183.37,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "52924",
@@ -9019,14 +7004,7 @@
     ],
     "tempo": 32,
     "custo": 58,
-    "avaliacao": 4.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 103.36,
-    "ingredientes_raros": [
-      "Custard Powder"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.2
   },
   {
     "id": "53377",
@@ -9047,14 +7025,7 @@
     ],
     "tempo": 12,
     "custo": 38,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 61.52,
-    "ingredientes_raros": [
-      "Dried Shrimp"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "53051",
@@ -9082,12 +7053,7 @@
     ],
     "tempo": 18,
     "custo": 93,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 163.17,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "52858",
@@ -9109,12 +7075,7 @@
     ],
     "tempo": 39,
     "custo": 47,
-    "avaliacao": 4.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 87.54,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "53347",
@@ -9133,12 +7094,7 @@
     ],
     "tempo": 32,
     "custo": 22,
-    "avaliacao": 3.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 50.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.3
   },
   {
     "id": "53245",
@@ -9161,14 +7117,7 @@
     ],
     "tempo": 50,
     "custo": 37,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 87.82,
-    "ingredientes_raros": [
-      "Hot Smoked Flaked Salmon"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "53117",
@@ -9194,16 +7143,7 @@
     ],
     "tempo": 16,
     "custo": 79,
-    "avaliacao": 3.0,
-    "classe_prato": "principal",
-    "valor_venda": 144.04,
-    "ingredientes_raros": [
-      "White Asparagus",
-      "Rye Bread",
-      "västerbottensost cheese"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.0
   },
   {
     "id": "53129",
@@ -9221,12 +7161,7 @@
     ],
     "tempo": 21,
     "custo": 28,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 59.17,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "53121",
@@ -9246,12 +7181,7 @@
     ],
     "tempo": 24,
     "custo": 47,
-    "avaliacao": 3.8,
-    "classe_prato": "entrada",
-    "valor_venda": 90.23,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.8
   },
   {
     "id": "52851",
@@ -9270,12 +7200,7 @@
     ],
     "tempo": 54,
     "custo": 100,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 238.49,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "53331",
@@ -9295,15 +7220,7 @@
     ],
     "tempo": 44,
     "custo": 85,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 172.46,
-    "ingredientes_raros": [
-      "Ground Oats",
-      "Sugar Syrup"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "52810",
@@ -9331,14 +7248,7 @@
     ],
     "tempo": 32,
     "custo": 58,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 136.38,
-    "ingredientes_raros": [
-      "Veal"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.1
   },
   {
     "id": "52943",
@@ -9361,14 +7271,7 @@
     ],
     "tempo": 13,
     "custo": 74,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 125.23,
-    "ingredientes_raros": [
-      "Oxtail"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "52774",
@@ -9390,14 +7293,7 @@
     ],
     "tempo": 54,
     "custo": 79,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 187.73,
-    "ingredientes_raros": [
-      "dark soy sauce"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "53191",
@@ -9420,12 +7316,7 @@
     ],
     "tempo": 22,
     "custo": 71,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 123.74,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "53150",
@@ -9437,14 +7328,7 @@
     ],
     "tempo": 14,
     "custo": 24,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 56.88,
-    "ingredientes_raros": [
-      "Padron peppers"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53151",
@@ -9468,12 +7352,7 @@
     ],
     "tempo": 48,
     "custo": 68,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 123.24,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "53152",
@@ -9495,14 +7374,7 @@
     ],
     "tempo": 13,
     "custo": 58,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 97.83,
-    "ingredientes_raros": [
-      "Hake"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "53192",
@@ -9532,16 +7404,7 @@
     ],
     "tempo": 18,
     "custo": 15,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 29.21,
-    "ingredientes_raros": [
-      "Panang Curry Paste",
-      "Dried Red Chillies",
-      "Shrimp Paste"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.9
   },
   {
     "id": "52854",
@@ -9558,12 +7421,7 @@
     ],
     "tempo": 55,
     "custo": 96,
-    "avaliacao": 3.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 209.55,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52902",
@@ -9582,14 +7440,7 @@
     ],
     "tempo": 57,
     "custo": 31,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 57.38,
-    "ingredientes_raros": [
-      "Oatmeal"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53333",
@@ -9605,15 +7456,7 @@
     ],
     "tempo": 52,
     "custo": 86,
-    "avaliacao": 4.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 179.31,
-    "ingredientes_raros": [
-      "Unflavoured Gelatin",
-      "Passion Fruit Pulp"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "53017",
@@ -9635,12 +7478,7 @@
     ],
     "tempo": 43,
     "custo": 33,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 66.3,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 5.0
   },
   {
     "id": "53172",
@@ -9661,12 +7499,7 @@
     ],
     "tempo": 22,
     "custo": 52,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 99.22,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "52930",
@@ -9686,14 +7519,7 @@
     ],
     "tempo": 37,
     "custo": 31,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 63.9,
-    "ingredientes_raros": [
-      "Creamed Corn"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "52862",
@@ -9714,12 +7540,7 @@
     ],
     "tempo": 12,
     "custo": 85,
-    "avaliacao": 3.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 153.32,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.0
   },
   {
     "id": "52861",
@@ -9739,15 +7560,7 @@
     ],
     "tempo": 50,
     "custo": 99,
-    "avaliacao": 3.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 214.54,
-    "ingredientes_raros": [
-      "Peanut Cookies",
-      "Peanut Brittle"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "52958",
@@ -9760,12 +7573,7 @@
     ],
     "tempo": 11,
     "custo": 16,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 25.62,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.4
   },
   {
     "id": "52916",
@@ -9783,14 +7591,7 @@
     ],
     "tempo": 11,
     "custo": 77,
-    "avaliacao": 3.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 180.22,
-    "ingredientes_raros": [
-      "Pears"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.3
   },
   {
     "id": "53292",
@@ -9814,14 +7615,7 @@
     ],
     "tempo": 19,
     "custo": 92,
-    "avaliacao": 4.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 186.83,
-    "ingredientes_raros": [
-      "Plum Jam"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "53019",
@@ -9842,12 +7636,7 @@
     ],
     "tempo": 26,
     "custo": 46,
-    "avaliacao": 3.7,
-    "classe_prato": "entrada",
-    "valor_venda": 100.08,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.7
   },
   {
     "id": "52837",
@@ -9866,14 +7655,7 @@
     ],
     "tempo": 49,
     "custo": 29,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 63.61,
-    "ingredientes_raros": [
-      "Pilchards"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "53039",
@@ -9900,12 +7682,7 @@
     ],
     "tempo": 51,
     "custo": 80,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 170.92,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.9
   },
   {
     "id": "53293",
@@ -9928,15 +7705,7 @@
     ],
     "tempo": 47,
     "custo": 70,
-    "avaliacao": 3.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 132.4,
-    "ingredientes_raros": [
-      "Pistachio Paste",
-      "Unwaxed Lime"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "53224",
@@ -9959,18 +7728,7 @@
     ],
     "tempo": 40,
     "custo": 66,
-    "avaliacao": 4.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 109.29,
-    "ingredientes_raros": [
-      "White Chocolate",
-      "Unsalted Pistachio",
-      "Oreo Cream Biscuits",
-      "Sevaiiya",
-      "Malai"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "53160",
@@ -9992,14 +7750,7 @@
     ],
     "tempo": 59,
     "custo": 48,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 102.31,
-    "ingredientes_raros": [
-      "Mixed peppers"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "53014",
@@ -10020,12 +7771,7 @@
     ],
     "tempo": 54,
     "custo": 78,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 145.4,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "53295",
@@ -10046,12 +7792,7 @@
     ],
     "tempo": 11,
     "custo": 56,
-    "avaliacao": 4.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 103.66,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "53298",
@@ -10079,14 +7820,7 @@
     ],
     "tempo": 32,
     "custo": 19,
-    "avaliacao": 3.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 43.29,
-    "ingredientes_raros": [
-      "Almond Essence"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.6
   },
   {
     "id": "53299",
@@ -10105,14 +7839,7 @@
     ],
     "tempo": 60,
     "custo": 51,
-    "avaliacao": 3.8,
-    "classe_prato": "entrada",
-    "valor_venda": 110.97,
-    "ingredientes_raros": [
-      "Bread Rolls"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.8
   },
   {
     "id": "53162",
@@ -10139,14 +7866,7 @@
     ],
     "tempo": 47,
     "custo": 92,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 169.3,
-    "ingredientes_raros": [
-      "Stale bread"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "53022",
@@ -10163,12 +7883,7 @@
     ],
     "tempo": 27,
     "custo": 11,
-    "avaliacao": 3.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 20.32,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "53297",
@@ -10188,15 +7903,7 @@
     ],
     "tempo": 36,
     "custo": 45,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 86.7,
-    "ingredientes_raros": [
-      "Baby Lettuce Leaves",
-      "Pomegranate"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53301",
@@ -10218,14 +7925,7 @@
     ],
     "tempo": 59,
     "custo": 35,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 67.27,
-    "ingredientes_raros": [
-      "White Sauerkraut"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "52847",
@@ -10251,14 +7951,7 @@
     ],
     "tempo": 12,
     "custo": 35,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 64.28,
-    "ingredientes_raros": [
-      "Haricot Beans"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "53306",
@@ -10283,14 +7976,7 @@
     ],
     "tempo": 32,
     "custo": 17,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 28.93,
-    "ingredientes_raros": [
-      "Pork Back Ribs"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "53044",
@@ -10309,12 +7995,7 @@
     ],
     "tempo": 21,
     "custo": 70,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 135.54,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "53046",
@@ -10336,12 +8017,7 @@
     ],
     "tempo": 31,
     "custo": 31,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 72.92,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "53045",
@@ -10367,12 +8043,7 @@
     ],
     "tempo": 59,
     "custo": 95,
-    "avaliacao": 3.0,
-    "classe_prato": "principal",
-    "valor_venda": 203.48,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.0
   },
   {
     "id": "53042",
@@ -10396,14 +8067,7 @@
     ],
     "tempo": 29,
     "custo": 29,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 67.35,
-    "ingredientes_raros": [
-      "Ciabatta"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "53323",
@@ -10427,14 +8091,7 @@
     ],
     "tempo": 60,
     "custo": 10,
-    "avaliacao": 3.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 20.92,
-    "ingredientes_raros": [
-      "Peach Juice"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52780",
@@ -10454,12 +8111,7 @@
     ],
     "tempo": 35,
     "custo": 39,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 71.79,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "53081",
@@ -10479,12 +8131,7 @@
     ],
     "tempo": 48,
     "custo": 90,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 183.45,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "52932",
@@ -10505,12 +8152,7 @@
     ],
     "tempo": 32,
     "custo": 77,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 123.23,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53280",
@@ -10530,12 +8172,7 @@
     ],
     "tempo": 14,
     "custo": 99,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 181.12,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "52804",
@@ -10549,15 +8186,7 @@
     ],
     "tempo": 52,
     "custo": 43,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 83.59,
-    "ingredientes_raros": [
-      "Beef Gravy",
-      "Cheese Curds"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "52922",
@@ -10579,12 +8208,7 @@
     ],
     "tempo": 56,
     "custo": 38,
-    "avaliacao": 4.1,
-    "classe_prato": "entrada",
-    "valor_venda": 78.43,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.1
   },
   {
     "id": "53244",
@@ -10609,12 +8233,7 @@
     ],
     "tempo": 10,
     "custo": 98,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 208.13,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53200",
@@ -10640,12 +8259,7 @@
     ],
     "tempo": 50,
     "custo": 46,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 90.71,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.6
   },
   {
     "id": "53174",
@@ -10666,14 +8280,7 @@
     ],
     "tempo": 42,
     "custo": 42,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 82.06,
-    "ingredientes_raros": [
-      "Shelled Hazelnuts"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "52921",
@@ -10696,12 +8303,7 @@
     ],
     "tempo": 16,
     "custo": 22,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 38.96,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "52857",
@@ -10722,12 +8324,7 @@
     ],
     "tempo": 23,
     "custo": 48,
-    "avaliacao": 4.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 94.97,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "53230",
@@ -10747,15 +8344,7 @@
     ],
     "tempo": 27,
     "custo": 45,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 104.44,
-    "ingredientes_raros": [
-      "Soda Water",
-      "Purple Sprouting Broccoli"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.3
   },
   {
     "id": "53173",
@@ -10771,12 +8360,7 @@
     ],
     "tempo": 37,
     "custo": 12,
-    "avaliacao": 4.2,
-    "classe_prato": "entrada",
-    "valor_venda": 26.84,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "53108",
@@ -10792,12 +8376,7 @@
     ],
     "tempo": 29,
     "custo": 43,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 74.64,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53383",
@@ -10815,12 +8394,7 @@
     ],
     "tempo": 46,
     "custo": 23,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 38.36,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.9
   },
   {
     "id": "52933",
@@ -10837,12 +8411,7 @@
     ],
     "tempo": 48,
     "custo": 91,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 183.12,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.2
   },
   {
     "id": "53303",
@@ -10857,12 +8426,7 @@
     ],
     "tempo": 11,
     "custo": 60,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 126.38,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "53124",
@@ -10886,16 +8450,7 @@
     ],
     "tempo": 57,
     "custo": 60,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 112.09,
-    "ingredientes_raros": [
-      "Pork knuckle",
-      "Red Potatoes",
-      "Bouillon Cubes"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.3
   },
   {
     "id": "52908",
@@ -10915,12 +8470,7 @@
     ],
     "tempo": 36,
     "custo": 66,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 148.81,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "52809",
@@ -10944,15 +8494,7 @@
     ],
     "tempo": 50,
     "custo": 26,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 57.22,
-    "ingredientes_raros": [
-      "Mackerel",
-      "Tamarind ball"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.8
   },
   {
     "id": "53204",
@@ -10969,12 +8511,7 @@
     ],
     "tempo": 21,
     "custo": 33,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 70.56,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "53115",
@@ -10990,12 +8527,7 @@
     ],
     "tempo": 15,
     "custo": 84,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 149.5,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 5.0
   },
   {
     "id": "52941",
@@ -11020,12 +8552,7 @@
     ],
     "tempo": 47,
     "custo": 14,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 24.63,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.6
   },
   {
     "id": "52811",
@@ -11049,15 +8576,7 @@
     ],
     "tempo": 43,
     "custo": 16,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 25.91,
-    "ingredientes_raros": [
-      "Canned tomatoes",
-      "Wholegrain Bread"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "53227",
@@ -11082,12 +8601,7 @@
     ],
     "tempo": 43,
     "custo": 43,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 77.22,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "52783",
@@ -11114,16 +8628,7 @@
     ],
     "tempo": 59,
     "custo": 64,
-    "avaliacao": 3.0,
-    "classe_prato": "principal",
-    "valor_venda": 126.73,
-    "ingredientes_raros": [
-      "smoky paprika",
-      "pitted black olives",
-      "rigatoni"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.0
   },
   {
     "id": "53273",
@@ -11144,12 +8649,7 @@
     ],
     "tempo": 11,
     "custo": 43,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 98.03,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.5
   },
   {
     "id": "52942",
@@ -11174,14 +8674,7 @@
     ],
     "tempo": 21,
     "custo": 64,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 106.13,
-    "ingredientes_raros": [
-      "Baby Aubergine"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.2
   },
   {
     "id": "53268",
@@ -11203,12 +8696,7 @@
     ],
     "tempo": 15,
     "custo": 52,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 100.44,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.5
   },
   {
     "id": "52816",
@@ -11233,12 +8721,7 @@
     ],
     "tempo": 24,
     "custo": 35,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 73.63,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.9
   },
   {
     "id": "52901",
@@ -11256,12 +8739,7 @@
     ],
     "tempo": 18,
     "custo": 77,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 135.18,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "52786",
@@ -11276,12 +8754,7 @@
     ],
     "tempo": 40,
     "custo": 24,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 51.77,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "53024",
@@ -11297,12 +8770,7 @@
     ],
     "tempo": 44,
     "custo": 30,
-    "avaliacao": 3.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 59.87,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.3
   },
   {
     "id": "53118",
@@ -11319,14 +8787,7 @@
     ],
     "tempo": 38,
     "custo": 27,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 48.47,
-    "ingredientes_raros": [
-      "Full fat sour cream"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "53315",
@@ -11346,14 +8807,7 @@
     ],
     "tempo": 28,
     "custo": 40,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 84.99,
-    "ingredientes_raros": [
-      "Kabanos Sausages"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "53020",
@@ -11376,12 +8830,7 @@
     ],
     "tempo": 50,
     "custo": 19,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 30.48,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "53052",
@@ -11399,12 +8848,7 @@
     ],
     "tempo": 57,
     "custo": 80,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 176.06,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.7
   },
   {
     "id": "53388",
@@ -11424,14 +8868,7 @@
     ],
     "tempo": 28,
     "custo": 12,
-    "avaliacao": 3.3,
-    "classe_prato": "entrada",
-    "valor_venda": 26.59,
-    "ingredientes_raros": [
-      "Runner Beans"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.3
   },
   {
     "id": "53308",
@@ -11447,14 +8884,7 @@
     ],
     "tempo": 55,
     "custo": 54,
-    "avaliacao": 4.0,
-    "classe_prato": "entrada",
-    "valor_venda": 91.0,
-    "ingredientes_raros": [
-      "Rye"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "52960",
@@ -11472,12 +8902,7 @@
     ],
     "tempo": 50,
     "custo": 79,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 153.27,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.8
   },
   {
     "id": "52962",
@@ -11496,15 +8921,7 @@
     ],
     "tempo": 33,
     "custo": 67,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 116.63,
-    "ingredientes_raros": [
-      "English Muffins",
-      "Smoked Salmon"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53234",
@@ -11524,12 +8941,7 @@
     ],
     "tempo": 32,
     "custo": 88,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 208.24,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53248",
@@ -11546,14 +8958,7 @@
     ],
     "tempo": 25,
     "custo": 11,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 22.16,
-    "ingredientes_raros": [
-      "Petit Pois"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.4
   },
   {
     "id": "52823",
@@ -11574,12 +8979,7 @@
     ],
     "tempo": 57,
     "custo": 60,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 98.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "53233",
@@ -11603,14 +9003,7 @@
     ],
     "tempo": 14,
     "custo": 31,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 55.78,
-    "ingredientes_raros": [
-      "Szechuan Peppercorns"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53171",
@@ -11627,12 +9020,7 @@
     ],
     "tempo": 48,
     "custo": 23,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 52.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "52833",
@@ -11654,16 +9042,7 @@
     ],
     "tempo": 39,
     "custo": 67,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 131.67,
-    "ingredientes_raros": [
-      "Caramel",
-      "Caramel Sauce",
-      "Toffee Popcorn"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "52936",
@@ -11689,14 +9068,7 @@
     ],
     "tempo": 11,
     "custo": 37,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 82.92,
-    "ingredientes_raros": [
-      "Ackee"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "53337",
@@ -11720,15 +9092,7 @@
     ],
     "tempo": 16,
     "custo": 30,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 64.02,
-    "ingredientes_raros": [
-      "Vegetable Shortening",
-      "Saskatoon Berries"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.5
   },
   {
     "id": "53296",
@@ -11750,12 +9114,7 @@
     ],
     "tempo": 47,
     "custo": 88,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 210.35,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "53314",
@@ -11777,12 +9136,7 @@
     ],
     "tempo": 23,
     "custo": 69,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 143.27,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "53247",
@@ -11799,14 +9153,7 @@
     ],
     "tempo": 17,
     "custo": 58,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 136.88,
-    "ingredientes_raros": [
-      "Sea Bass Fillets"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "52836",
@@ -11830,15 +9177,7 @@
     ],
     "tempo": 22,
     "custo": 99,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 229.0,
-    "ingredientes_raros": [
-      "Monkfish",
-      "Baby Squid"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "53167",
@@ -11856,12 +9195,7 @@
     ],
     "tempo": 30,
     "custo": 87,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 181.84,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "53054",
@@ -11880,12 +9214,7 @@
     ],
     "tempo": 23,
     "custo": 17,
-    "avaliacao": 3.8,
-    "classe_prato": "sobremesa",
-    "valor_venda": 36.98,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.8
   },
   {
     "id": "53378",
@@ -11902,12 +9231,7 @@
     ],
     "tempo": 47,
     "custo": 64,
-    "avaliacao": 4.9,
-    "classe_prato": "entrada",
-    "valor_venda": 128.24,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "53215",
@@ -11923,12 +9247,7 @@
     ],
     "tempo": 43,
     "custo": 12,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 27.17,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "52963",
@@ -11947,12 +9266,7 @@
     ],
     "tempo": 27,
     "custo": 81,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 165.1,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.5
   },
   {
     "id": "53219",
@@ -11974,12 +9288,7 @@
     ],
     "tempo": 34,
     "custo": 74,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 171.51,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53028",
@@ -12004,12 +9313,7 @@
     ],
     "tempo": 47,
     "custo": 78,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 171.2,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53226",
@@ -12025,12 +9329,7 @@
     ],
     "tempo": 30,
     "custo": 46,
-    "avaliacao": 3.0,
-    "classe_prato": "entrada",
-    "valor_venda": 91.07,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.0
   },
   {
     "id": "53217",
@@ -12052,14 +9351,7 @@
     ],
     "tempo": 43,
     "custo": 38,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 68.68,
-    "ingredientes_raros": [
-      "Chuck Roast"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "52953",
@@ -12086,12 +9378,7 @@
     ],
     "tempo": 29,
     "custo": 45,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 80.9,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "53375",
@@ -12113,14 +9400,7 @@
     ],
     "tempo": 48,
     "custo": 93,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 196.24,
-    "ingredientes_raros": [
-      "Snow Peas"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53374",
@@ -12143,14 +9423,7 @@
     ],
     "tempo": 18,
     "custo": 90,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 199.14,
-    "ingredientes_raros": [
-      "Chilli Bean Paste"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.4
   },
   {
     "id": "53371",
@@ -12168,15 +9441,7 @@
     ],
     "tempo": 21,
     "custo": 26,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 52.44,
-    "ingredientes_raros": [
-      "Chinese Long Beans",
-      "Dried Chillies"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53369",
@@ -12191,15 +9456,7 @@
     ],
     "tempo": 47,
     "custo": 89,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 187.02,
-    "ingredientes_raros": [
-      "Silken Tofu",
-      "Chinese Sesame Sauce"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "53368",
@@ -12227,15 +9484,7 @@
     ],
     "tempo": 14,
     "custo": 58,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 105.54,
-    "ingredientes_raros": [
-      "Seasoned Rice Vinegar",
-      "Cilantro Leaves"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.2
   },
   {
     "id": "52994",
@@ -12255,12 +9504,7 @@
     ],
     "tempo": 53,
     "custo": 28,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 46.54,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.6
   },
   {
     "id": "53395",
@@ -12280,14 +9524,7 @@
     ],
     "tempo": 24,
     "custo": 24,
-    "avaliacao": 3.8,
-    "classe_prato": "sobremesa",
-    "valor_venda": 43.89,
-    "ingredientes_raros": [
-      "Nougatine"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.8
   },
   {
     "id": "53023",
@@ -12303,14 +9540,7 @@
     ],
     "tempo": 26,
     "custo": 98,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 178.1,
-    "ingredientes_raros": [
-      "Herring"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "53260",
@@ -12328,12 +9558,7 @@
     ],
     "tempo": 34,
     "custo": 90,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 167.02,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "53302",
@@ -12350,12 +9575,7 @@
     ],
     "tempo": 57,
     "custo": 60,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 121.93,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.8
   },
   {
     "id": "53259",
@@ -12370,12 +9590,7 @@
     ],
     "tempo": 58,
     "custo": 50,
-    "avaliacao": 4.6,
-    "classe_prato": "entrada",
-    "valor_venda": 85.53,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "52964",
@@ -12397,12 +9612,7 @@
     ],
     "tempo": 42,
     "custo": 72,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 128.52,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.9
   },
   {
     "id": "53264",
@@ -12420,14 +9630,7 @@
     ],
     "tempo": 52,
     "custo": 13,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 28.02,
-    "ingredientes_raros": [
-      "Smoky Aïoli"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 5.0
   },
   {
     "id": "52784",
@@ -12456,14 +9659,7 @@
     ],
     "tempo": 53,
     "custo": 72,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 155.89,
-    "ingredientes_raros": [
-      "Cashews"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 5.0
   },
   {
     "id": "52981",
@@ -12484,12 +9680,7 @@
     ],
     "tempo": 37,
     "custo": 37,
-    "avaliacao": 4.9,
-    "classe_prato": "entrada",
-    "valor_venda": 61.1,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "52992",
@@ -12510,12 +9701,7 @@
     ],
     "tempo": 37,
     "custo": 30,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 57.78,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "52982",
@@ -12531,12 +9717,7 @@
     ],
     "tempo": 20,
     "custo": 51,
-    "avaliacao": 3.0,
-    "classe_prato": "principal",
-    "valor_venda": 103.74,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.0
   },
   {
     "id": "52770",
@@ -12558,15 +9739,7 @@
     ],
     "tempo": 25,
     "custo": 59,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 114.02,
-    "ingredientes_raros": [
-      "lean minced beef",
-      "hot beef stock"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "53177",
@@ -12582,12 +9755,7 @@
     ],
     "tempo": 45,
     "custo": 67,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 118.29,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.1
   },
   {
     "id": "53181",
@@ -12607,14 +9775,7 @@
     ],
     "tempo": 48,
     "custo": 14,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 27.11,
-    "ingredientes_raros": [
-      "Pinto Beans"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "53164",
@@ -12631,12 +9792,7 @@
     ],
     "tempo": 35,
     "custo": 21,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 48.8,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.5
   },
   {
     "id": "53155",
@@ -12655,12 +9811,7 @@
     ],
     "tempo": 21,
     "custo": 71,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 146.78,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "53163",
@@ -12678,14 +9829,7 @@
     ],
     "tempo": 28,
     "custo": 63,
-    "avaliacao": 4.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 135.85,
-    "ingredientes_raros": [
-      "Figs"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "53183",
@@ -12712,12 +9856,7 @@
     ],
     "tempo": 47,
     "custo": 54,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 123.41,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "53184",
@@ -12736,12 +9875,7 @@
     ],
     "tempo": 16,
     "custo": 73,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 161.51,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "53182",
@@ -12762,12 +9896,7 @@
     ],
     "tempo": 52,
     "custo": 77,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 146.63,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "53176",
@@ -12784,14 +9913,7 @@
     ],
     "tempo": 26,
     "custo": 91,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 146.03,
-    "ingredientes_raros": [
-      "Serrano Ham"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "52872",
@@ -12811,14 +9933,7 @@
     ],
     "tempo": 17,
     "custo": 45,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 84.66,
-    "ingredientes_raros": [
-      "Vine Tomatoes"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "53175",
@@ -12842,14 +9957,7 @@
     ],
     "tempo": 40,
     "custo": 36,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 79.3,
-    "ingredientes_raros": [
-      "Hot smoked paprika"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "53105",
@@ -12870,12 +9978,7 @@
     ],
     "tempo": 30,
     "custo": 79,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 180.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.4
   },
   {
     "id": "53142",
@@ -12893,12 +9996,7 @@
     ],
     "tempo": 13,
     "custo": 84,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 198.47,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.5
   },
   {
     "id": "52771",
@@ -12916,16 +10014,7 @@
     ],
     "tempo": 24,
     "custo": 27,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 52.25,
-    "ingredientes_raros": [
-      "penne rigate",
-      "italian seasoning",
-      "Parmigiano-Reggiano"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.3
   },
   {
     "id": "52797",
@@ -12946,12 +10035,7 @@
     ],
     "tempo": 39,
     "custo": 91,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 200.02,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "53209",
@@ -12972,12 +10056,7 @@
     ],
     "tempo": 37,
     "custo": 58,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 118.14,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.3
   },
   {
     "id": "52849",
@@ -13002,12 +10081,7 @@
     ],
     "tempo": 58,
     "custo": 46,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 95.8,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "52925",
@@ -13025,12 +10099,7 @@
     ],
     "tempo": 35,
     "custo": 47,
-    "avaliacao": 3.8,
-    "classe_prato": "entrada",
-    "valor_venda": 83.49,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.8
   },
   {
     "id": "52886",
@@ -13049,12 +10118,7 @@
     ],
     "tempo": 30,
     "custo": 100,
-    "avaliacao": 4.9,
-    "classe_prato": "sobremesa",
-    "valor_venda": 177.55,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53040",
@@ -13074,12 +10138,7 @@
     ],
     "tempo": 20,
     "custo": 67,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 130.56,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "52866",
@@ -13094,12 +10153,7 @@
     ],
     "tempo": 57,
     "custo": 16,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 25.97,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "53102",
@@ -13118,14 +10172,7 @@
     ],
     "tempo": 30,
     "custo": 23,
-    "avaliacao": 3.0,
-    "classe_prato": "principal",
-    "valor_venda": 42.98,
-    "ingredientes_raros": [
-      "Can of chickpeas"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.0
   },
   {
     "id": "52980",
@@ -13145,12 +10192,7 @@
     ],
     "tempo": 55,
     "custo": 49,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 105.02,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "53229",
@@ -13173,15 +10215,7 @@
     ],
     "tempo": 45,
     "custo": 31,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 59.63,
-    "ingredientes_raros": [
-      "Fillet Of Steak",
-      "Chinese Cabbage"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "52881",
@@ -13203,12 +10237,7 @@
     ],
     "tempo": 30,
     "custo": 53,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 91.8,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "52935",
@@ -13234,14 +10263,7 @@
     ],
     "tempo": 24,
     "custo": 30,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 59.22,
-    "ingredientes_raros": [
-      "Tabasco Sauce"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "53110",
@@ -13257,12 +10279,7 @@
     ],
     "tempo": 30,
     "custo": 80,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 136.17,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "52883",
@@ -13286,12 +10303,7 @@
     ],
     "tempo": 42,
     "custo": 14,
-    "avaliacao": 4.9,
-    "classe_prato": "sobremesa",
-    "valor_venda": 29.37,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "52793",
@@ -13316,14 +10328,7 @@
     ],
     "tempo": 24,
     "custo": 13,
-    "avaliacao": 3.7,
-    "classe_prato": "sobremesa",
-    "valor_venda": 21.08,
-    "ingredientes_raros": [
-      "Medjool dates"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.7
   },
   {
     "id": "53201",
@@ -13342,12 +10347,7 @@
     ],
     "tempo": 39,
     "custo": 27,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 51.71,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "52817",
@@ -13365,12 +10365,7 @@
     ],
     "tempo": 56,
     "custo": 58,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 118.99,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "53082",
@@ -13385,12 +10380,7 @@
     ],
     "tempo": 58,
     "custo": 46,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 74.6,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.5
   },
   {
     "id": "53005",
@@ -13414,14 +10404,7 @@
     ],
     "tempo": 22,
     "custo": 38,
-    "avaliacao": 4.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 80.34,
-    "ingredientes_raros": [
-      "Rhubarb"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "53067",
@@ -13446,12 +10429,7 @@
     ],
     "tempo": 26,
     "custo": 33,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 56.38,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53008",
@@ -13474,12 +10452,7 @@
     ],
     "tempo": 39,
     "custo": 46,
-    "avaliacao": 4.3,
-    "classe_prato": "principal",
-    "valor_venda": 90.59,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.3
   },
   {
     "id": "52931",
@@ -13496,12 +10469,7 @@
     ],
     "tempo": 31,
     "custo": 66,
-    "avaliacao": 4.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 108.26,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.2
   },
   {
     "id": "53130",
@@ -13521,12 +10489,7 @@
     ],
     "tempo": 47,
     "custo": 88,
-    "avaliacao": 3.5,
-    "classe_prato": "sobremesa",
-    "valor_venda": 167.49,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53113",
@@ -13541,12 +10504,7 @@
     ],
     "tempo": 40,
     "custo": 43,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 76.08,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "53187",
@@ -13563,14 +10521,7 @@
     ],
     "tempo": 11,
     "custo": 16,
-    "avaliacao": 3.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 29.78,
-    "ingredientes_raros": [
-      "Ground Poppy seeds"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "52911",
@@ -13590,12 +10541,7 @@
     ],
     "tempo": 10,
     "custo": 21,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 46.39,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "52889",
@@ -13611,14 +10557,7 @@
     ],
     "tempo": 60,
     "custo": 76,
-    "avaliacao": 3.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 144.65,
-    "ingredientes_raros": [
-      "Redcurrants"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "53065",
@@ -13635,12 +10574,7 @@
     ],
     "tempo": 11,
     "custo": 100,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 220.16,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53376",
@@ -13663,15 +10597,7 @@
     ],
     "tempo": 19,
     "custo": 61,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 138.2,
-    "ingredientes_raros": [
-      "Pineapple Chunks",
-      "Pineapple Juice"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "52949",
@@ -13691,12 +10617,7 @@
     ],
     "tempo": 25,
     "custo": 99,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 178.38,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.5
   },
   {
     "id": "53275",
@@ -13714,12 +10635,7 @@
     ],
     "tempo": 60,
     "custo": 57,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 94.93,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.0
   },
   {
     "id": "53089",
@@ -13735,12 +10651,7 @@
     ],
     "tempo": 45,
     "custo": 65,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 105.01,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53095",
@@ -13760,12 +10671,7 @@
     ],
     "tempo": 41,
     "custo": 73,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 148.3,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "53093",
@@ -13782,12 +10688,7 @@
     ],
     "tempo": 53,
     "custo": 66,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 158.4,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "52950",
@@ -13817,12 +10718,7 @@
     ],
     "tempo": 16,
     "custo": 99,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 186.12,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "52869",
@@ -13842,12 +10738,7 @@
     ],
     "tempo": 45,
     "custo": 48,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 101.77,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53287",
@@ -13875,12 +10766,7 @@
     ],
     "tempo": 57,
     "custo": 14,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 31.15,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53119",
@@ -13905,14 +10791,7 @@
     ],
     "tempo": 46,
     "custo": 87,
-    "avaliacao": 3.2,
-    "classe_prato": "sobremesa",
-    "valor_venda": 184.56,
-    "ingredientes_raros": [
-      "Shredded Coconut"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.2
   },
   {
     "id": "53026",
@@ -13931,12 +10810,7 @@
     ],
     "tempo": 17,
     "custo": 23,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 50.68,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "52806",
@@ -13958,12 +10832,7 @@
     ],
     "tempo": 14,
     "custo": 10,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 23.6,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.5
   },
   {
     "id": "53312",
@@ -13983,14 +10852,7 @@
     ],
     "tempo": 25,
     "custo": 77,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 135.48,
-    "ingredientes_raros": [
-      "Wholegrain Mustard"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.7
   },
   {
     "id": "53246",
@@ -14010,12 +10872,7 @@
     ],
     "tempo": 24,
     "custo": 27,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 43.64,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "52909",
@@ -14031,12 +10888,7 @@
     ],
     "tempo": 47,
     "custo": 74,
-    "avaliacao": 3.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 127.42,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.3
   },
   {
     "id": "52772",
@@ -14055,12 +10907,7 @@
     ],
     "tempo": 35,
     "custo": 22,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 37.42,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "53199",
@@ -14075,12 +10922,7 @@
     ],
     "tempo": 53,
     "custo": 57,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 121.73,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.7
   },
   {
     "id": "53206",
@@ -14101,12 +10943,7 @@
     ],
     "tempo": 25,
     "custo": 96,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 196.91,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "53208",
@@ -14129,15 +10966,7 @@
     ],
     "tempo": 49,
     "custo": 14,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 24.84,
-    "ingredientes_raros": [
-      "Egg Noodles",
-      "Chinese Leaf"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "53195",
@@ -14158,12 +10987,7 @@
     ],
     "tempo": 43,
     "custo": 46,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 99.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.1
   },
   {
     "id": "53212",
@@ -14179,12 +11003,7 @@
     ],
     "tempo": 11,
     "custo": 98,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 216.92,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.9
   },
   {
     "id": "53198",
@@ -14206,12 +11025,7 @@
     ],
     "tempo": 42,
     "custo": 29,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 50.29,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.1
   },
   {
     "id": "53214",
@@ -14235,14 +11049,7 @@
     ],
     "tempo": 31,
     "custo": 82,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 171.04,
-    "ingredientes_raros": [
-      "Bamboo Shoot"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.8
   },
   {
     "id": "52814",
@@ -14264,14 +11071,7 @@
     ],
     "tempo": 18,
     "custo": 45,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 98.93,
-    "ingredientes_raros": [
-      "Thai fish sauce"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "53197",
@@ -14293,12 +11093,7 @@
     ],
     "tempo": 49,
     "custo": 85,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 143.79,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "53205",
@@ -14316,14 +11111,7 @@
     ],
     "tempo": 37,
     "custo": 89,
-    "avaliacao": 4.2,
-    "classe_prato": "principal",
-    "valor_venda": 200.73,
-    "ingredientes_raros": [
-      "Raw Frozen Prawns"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.2
   },
   {
     "id": "53210",
@@ -14344,12 +11132,7 @@
     ],
     "tempo": 32,
     "custo": 75,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 177.88,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.9
   },
   {
     "id": "53203",
@@ -14374,12 +11157,7 @@
     ],
     "tempo": 25,
     "custo": 36,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 60.71,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.6
   },
   {
     "id": "53213",
@@ -14398,12 +11176,7 @@
     ],
     "tempo": 53,
     "custo": 32,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 51.86,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53202",
@@ -14420,15 +11193,7 @@
     ],
     "tempo": 49,
     "custo": 57,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 105.43,
-    "ingredientes_raros": [
-      "Trout",
-      "Baby Pak Koi"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "52882",
@@ -14452,14 +11217,7 @@
     ],
     "tempo": 16,
     "custo": 53,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 113.52,
-    "ingredientes_raros": [
-      "Gruyere"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "52912",
@@ -14481,12 +11239,7 @@
     ],
     "tempo": 13,
     "custo": 38,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 89.93,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.4
   },
   {
     "id": "52929",
@@ -14505,12 +11258,7 @@
     ],
     "tempo": 46,
     "custo": 17,
-    "avaliacao": 4.9,
-    "classe_prato": "sobremesa",
-    "valor_venda": 32.59,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "52822",
@@ -14527,12 +11275,7 @@
     ],
     "tempo": 11,
     "custo": 19,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 41.27,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "53240",
@@ -14553,16 +11296,7 @@
     ],
     "tempo": 40,
     "custo": 49,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 81.38,
-    "ingredientes_raros": [
-      "Soya Bean",
-      "Marinated Tofu",
-      "Hoisin Sauce"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "53207",
@@ -14585,14 +11319,7 @@
     ],
     "tempo": 47,
     "custo": 80,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 172.2,
-    "ingredientes_raros": [
-      "Galangal Paste"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "53196",
@@ -14611,12 +11338,7 @@
     ],
     "tempo": 50,
     "custo": 43,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 90.38,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "53194",
@@ -14640,14 +11362,7 @@
     ],
     "tempo": 13,
     "custo": 50,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 84.08,
-    "ingredientes_raros": [
-      "Thai Chilli Jam"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "53032",
@@ -14666,12 +11381,7 @@
     ],
     "tempo": 52,
     "custo": 96,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 212.93,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "53165",
@@ -14690,14 +11400,7 @@
     ],
     "tempo": 34,
     "custo": 85,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 193.82,
-    "ingredientes_raros": [
-      "Sweet Sherry"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53318",
@@ -14716,12 +11419,7 @@
     ],
     "tempo": 28,
     "custo": 98,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 203.87,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.4
   },
   {
     "id": "53075",
@@ -14735,12 +11433,7 @@
     ],
     "tempo": 14,
     "custo": 73,
-    "avaliacao": 3.0,
-    "classe_prato": "principal",
-    "valor_venda": 123.87,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.0
   },
   {
     "id": "52926",
@@ -14761,12 +11454,7 @@
     ],
     "tempo": 47,
     "custo": 91,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 217.22,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "53057",
@@ -14788,12 +11476,7 @@
     ],
     "tempo": 27,
     "custo": 91,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 202.58,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "53391",
@@ -14817,15 +11500,7 @@
     ],
     "tempo": 39,
     "custo": 36,
-    "avaliacao": 3.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 67.6,
-    "ingredientes_raros": [
-      "Coconut Oil",
-      "Dessert Rice"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52892",
@@ -14841,12 +11516,7 @@
     ],
     "tempo": 30,
     "custo": 29,
-    "avaliacao": 4.3,
-    "classe_prato": "sobremesa",
-    "valor_venda": 56.34,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.3
   },
   {
     "id": "52975",
@@ -14867,12 +11537,7 @@
     ],
     "tempo": 52,
     "custo": 82,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 155.51,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "52852",
@@ -14891,12 +11556,7 @@
     ],
     "tempo": 24,
     "custo": 20,
-    "avaliacao": 4.8,
-    "classe_prato": "principal",
-    "valor_venda": 40.1,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.8
   },
   {
     "id": "52972",
@@ -14919,12 +11579,7 @@
     ],
     "tempo": 44,
     "custo": 18,
-    "avaliacao": 3.9,
-    "classe_prato": "principal",
-    "valor_venda": 33.71,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.9
   },
   {
     "id": "52970",
@@ -14941,12 +11596,7 @@
     ],
     "tempo": 52,
     "custo": 99,
-    "avaliacao": 3.1,
-    "classe_prato": "sobremesa",
-    "valor_venda": 225.69,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "53249",
@@ -14968,15 +11618,7 @@
     ],
     "tempo": 30,
     "custo": 44,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 99.35,
-    "ingredientes_raros": [
-      "Chicken Liver",
-      "Turkey"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.5
   },
   {
     "id": "52845",
@@ -14997,14 +11639,7 @@
     ],
     "tempo": 37,
     "custo": 36,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 60.64,
-    "ingredientes_raros": [
-      "Turkey Mince"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53251",
@@ -15028,12 +11663,7 @@
     ],
     "tempo": 48,
     "custo": 14,
-    "avaliacao": 3.0,
-    "classe_prato": "principal",
-    "valor_venda": 33.16,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.0
   },
   {
     "id": "53263",
@@ -15052,12 +11682,7 @@
     ],
     "tempo": 11,
     "custo": 68,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 143.38,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.6
   },
   {
     "id": "53252",
@@ -15072,12 +11697,7 @@
     ],
     "tempo": 54,
     "custo": 61,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 138.04,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.7
   },
   {
     "id": "53270",
@@ -15096,14 +11716,7 @@
     ],
     "tempo": 31,
     "custo": 31,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 67.14,
-    "ingredientes_raros": [
-      "Seasoning"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.1
   },
   {
     "id": "53114",
@@ -15115,14 +11728,7 @@
     ],
     "tempo": 20,
     "custo": 92,
-    "avaliacao": 4.7,
-    "classe_prato": "principal",
-    "valor_venda": 179.25,
-    "ingredientes_raros": [
-      "White Cornmeal"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.7
   },
   {
     "id": "53321",
@@ -15144,12 +11750,7 @@
     ],
     "tempo": 59,
     "custo": 44,
-    "avaliacao": 4.6,
-    "classe_prato": "sobremesa",
-    "valor_venda": 96.23,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.6
   },
   {
     "id": "53250",
@@ -15168,16 +11769,7 @@
     ],
     "tempo": 22,
     "custo": 34,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 80.66,
-    "ingredientes_raros": [
-      "Raw Vegetables",
-      "Vegan White Wine Vinegar",
-      "Tempeh"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.9
   },
   {
     "id": "52794",
@@ -15195,15 +11787,7 @@
     ],
     "tempo": 44,
     "custo": 37,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 67.19,
-    "ingredientes_raros": [
-      "flax eggs",
-      "almond milk"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "52775",
@@ -15225,16 +11809,7 @@
     ],
     "tempo": 31,
     "custo": 85,
-    "avaliacao": 4.6,
-    "classe_prato": "principal",
-    "valor_venda": 190.96,
-    "ingredientes_raros": [
-      "green red lentils",
-      "vegan butter",
-      "soya milk"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.6
   },
   {
     "id": "53000",
@@ -15263,12 +11838,7 @@
     ],
     "tempo": 18,
     "custo": 57,
-    "avaliacao": 3.2,
-    "classe_prato": "principal",
-    "valor_venda": 115.74,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.2
   },
   {
     "id": "52863",
@@ -15293,12 +11863,7 @@
     ],
     "tempo": 39,
     "custo": 95,
-    "avaliacao": 3.4,
-    "classe_prato": "principal",
-    "valor_venda": 188.75,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.4
   },
   {
     "id": "52867",
@@ -15312,15 +11877,7 @@
     ],
     "tempo": 39,
     "custo": 54,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 105.22,
-    "ingredientes_raros": [
-      "Roasted Vegetables",
-      "Mixed Grain"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "53222",
@@ -15341,15 +11898,7 @@
     ],
     "tempo": 19,
     "custo": 100,
-    "avaliacao": 3.3,
-    "classe_prato": "principal",
-    "valor_venda": 218.48,
-    "ingredientes_raros": [
-      "Garlic Granules",
-      "Toast"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.3
   },
   {
     "id": "52838",
@@ -15374,14 +11923,7 @@
     ],
     "tempo": 52,
     "custo": 92,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 166.95,
-    "ingredientes_raros": [
-      "Paccheri Pasta"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "53325",
@@ -15395,12 +11937,7 @@
     ],
     "tempo": 36,
     "custo": 72,
-    "avaliacao": 3.2,
-    "classe_prato": "entrada",
-    "valor_venda": 164.26,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.2
   },
   {
     "id": "53327",
@@ -15424,12 +11961,7 @@
     ],
     "tempo": 37,
     "custo": 25,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 56.61,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "53326",
@@ -15456,18 +11988,7 @@
     ],
     "tempo": 32,
     "custo": 95,
-    "avaliacao": 4.5,
-    "classe_prato": "principal",
-    "valor_venda": 158.59,
-    "ingredientes_raros": [
-      "Hind Shank",
-      "Sweet Red Peppers",
-      "Cassaba",
-      "Yautia",
-      "White Yam"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.5
   },
   {
     "id": "53328",
@@ -15491,14 +12012,7 @@
     ],
     "tempo": 26,
     "custo": 77,
-    "avaliacao": 4.4,
-    "classe_prato": "principal",
-    "valor_venda": 177.51,
-    "ingredientes_raros": [
-      "Skirty Steak"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.4
   },
   {
     "id": "53332",
@@ -15521,15 +12035,7 @@
     ],
     "tempo": 15,
     "custo": 44,
-    "avaliacao": 4.0,
-    "classe_prato": "entrada",
-    "valor_venda": 78.98,
-    "ingredientes_raros": [
-      "Sazon",
-      "Yellow Masarepa"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "53228",
@@ -15548,15 +12054,7 @@
     ],
     "tempo": 53,
     "custo": 30,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 59.15,
-    "ingredientes_raros": [
-      "Rainbow Trout",
-      "Bok Choi"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   },
   {
     "id": "53232",
@@ -15579,14 +12077,7 @@
     ],
     "tempo": 19,
     "custo": 57,
-    "avaliacao": 4.1,
-    "classe_prato": "principal",
-    "valor_venda": 119.03,
-    "ingredientes_raros": [
-      "Radish"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.1
   },
   {
     "id": "52828",
@@ -15609,15 +12100,7 @@
     ],
     "tempo": 40,
     "custo": 80,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 152.26,
-    "ingredientes_raros": [
-      "Rice Vermicelli",
-      "Egg Rolls"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.1
   },
   {
     "id": "53231",
@@ -15645,14 +12128,7 @@
     ],
     "tempo": 37,
     "custo": 93,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 150.94,
-    "ingredientes_raros": [
-      "Lamb Shanks"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.7
   },
   {
     "id": "53237",
@@ -15680,12 +12156,7 @@
     ],
     "tempo": 52,
     "custo": 21,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 47.9,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.0
   },
   {
     "id": "53243",
@@ -15706,12 +12177,7 @@
     ],
     "tempo": 23,
     "custo": 99,
-    "avaliacao": 3.1,
-    "classe_prato": "principal",
-    "valor_venda": 172.8,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.1
   },
   {
     "id": "53241",
@@ -15734,14 +12200,7 @@
     ],
     "tempo": 40,
     "custo": 37,
-    "avaliacao": 3.5,
-    "classe_prato": "principal",
-    "valor_venda": 65.48,
-    "ingredientes_raros": [
-      "Rice Flour Pancakes"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 3.5
   },
   {
     "id": "53235",
@@ -15762,14 +12221,7 @@
     ],
     "tempo": 18,
     "custo": 17,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 38.05,
-    "ingredientes_raros": [
-      "Pork Shoulder Steaks"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 4.0
   },
   {
     "id": "53236",
@@ -15790,12 +12242,7 @@
     ],
     "tempo": 17,
     "custo": 84,
-    "avaliacao": 3.6,
-    "classe_prato": "principal",
-    "valor_venda": 157.27,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.6
   },
   {
     "id": "53062",
@@ -15818,12 +12265,7 @@
     ],
     "tempo": 46,
     "custo": 25,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 57.61,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "53271",
@@ -15842,14 +12284,7 @@
     ],
     "tempo": 49,
     "custo": 31,
-    "avaliacao": 4.4,
-    "classe_prato": "sobremesa",
-    "valor_venda": 66.99,
-    "ingredientes_raros": [
-      "Stoned Dates"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.4
   },
   {
     "id": "53106",
@@ -15869,14 +12304,7 @@
     ],
     "tempo": 21,
     "custo": 57,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 103.8,
-    "ingredientes_raros": [
-      "Streaky Bacon"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 5.0
   },
   {
     "id": "52917",
@@ -15892,12 +12320,7 @@
     ],
     "tempo": 11,
     "custo": 62,
-    "avaliacao": 3.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 99.7,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 3.0
   },
   {
     "id": "52948",
@@ -15918,14 +12341,7 @@
     ],
     "tempo": 31,
     "custo": 74,
-    "avaliacao": 3.7,
-    "classe_prato": "principal",
-    "valor_venda": 174.53,
-    "ingredientes_raros": [
-      "Wonton Skin"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.7
   },
   {
     "id": "52871",
@@ -15945,12 +12361,7 @@
     ],
     "tempo": 43,
     "custo": 83,
-    "avaliacao": 4.0,
-    "classe_prato": "principal",
-    "valor_venda": 138.48,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.0
   },
   {
     "id": "53225",
@@ -15967,14 +12378,7 @@
     ],
     "tempo": 42,
     "custo": 73,
-    "avaliacao": 3.8,
-    "classe_prato": "principal",
-    "valor_venda": 158.85,
-    "ingredientes_raros": [
-      "Liquid Cheese"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.8
   },
   {
     "id": "53097",
@@ -15988,12 +12392,7 @@
     ],
     "tempo": 26,
     "custo": 74,
-    "avaliacao": 5.0,
-    "classe_prato": "principal",
-    "valor_venda": 147.32,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "baixa"
+    "avaliacao": 5.0
   },
   {
     "id": "53294",
@@ -16017,14 +12416,7 @@
     ],
     "tempo": 34,
     "custo": 77,
-    "avaliacao": 4.9,
-    "classe_prato": "principal",
-    "valor_venda": 169.9,
-    "ingredientes_raros": [
-      "Polish Kabanos"
-    ],
-    "possui_ingrediente_raro": true,
-    "dificuldade_logistica": "media"
+    "avaliacao": 4.9
   },
   {
     "id": "53394",
@@ -16045,12 +12437,7 @@
     ],
     "tempo": 27,
     "custo": 49,
-    "avaliacao": 3.0,
-    "classe_prato": "sobremesa",
-    "valor_venda": 105.47,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "media"
+    "avaliacao": 3.0
   },
   {
     "id": "53189",
@@ -16069,11 +12456,6 @@
     ],
     "tempo": 58,
     "custo": 63,
-    "avaliacao": 4.9,
-    "classe_prato": "entrada",
-    "valor_venda": 133.35,
-    "ingredientes_raros": [],
-    "possui_ingrediente_raro": false,
-    "dificuldade_logistica": "alta"
+    "avaliacao": 4.9
   }
 ]

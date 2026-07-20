@@ -1,0 +1,343 @@
+{
+  "preparos": [
+    {
+      "id": "caldo_de_carne",
+      "nome": "Caldo de Carne",
+      "tempo_preparo": 40,
+      "depende_de": []
+    },
+    {
+      "id": "caldo_de_legumes",
+      "nome": "Caldo de Legumes",
+      "tempo_preparo": 30,
+      "depende_de": []
+    },
+    {
+      "id": "caldo_de_frango",
+      "nome": "Caldo de Frango",
+      "tempo_preparo": 35,
+      "depende_de": []
+    },
+    {
+      "id": "molho_de_tomate",
+      "nome": "Molho de Tomate",
+      "tempo_preparo": 25,
+      "depende_de": []
+    },
+    {
+      "id": "molho_branco",
+      "nome": "Molho Branco",
+      "tempo_preparo": 15,
+      "depende_de": []
+    },
+    {
+      "id": "massa_de_pizza",
+      "nome": "Massa de Pizza",
+      "tempo_preparo": 20,
+      "depende_de": []
+    },
+    {
+      "id": "massa_folhada",
+      "nome": "Massa Folhada",
+      "tempo_preparo": 30,
+      "depende_de": []
+    },
+    {
+      "id": "massa_de_panqueca",
+      "nome": "Massa de Panqueca",
+      "tempo_preparo": 10,
+      "depende_de": []
+    },
+    {
+      "id": "massa_de_macarrao_fresca",
+      "nome": "Massa de Macarrão Fresca",
+      "tempo_preparo": 25,
+      "depende_de": []
+    },
+    {
+      "id": "creme_de_confeiteiro",
+      "nome": "Creme de Confeiteiro",
+      "tempo_preparo": 20,
+      "depende_de": []
+    },
+    {
+      "id": "calda_de_caramelo",
+      "nome": "Calda de Caramelo",
+      "tempo_preparo": 15,
+      "depende_de": []
+    },
+    {
+      "id": "massa_de_torta",
+      "nome": "Massa de Torta",
+      "tempo_preparo": 20,
+      "depende_de": []
+    },
+    {
+      "id": "marinada_de_ervas",
+      "nome": "Marinada de Ervas",
+      "tempo_preparo": 10,
+      "depende_de": []
+    },
+    {
+      "id": "molho_bolonhesa",
+      "nome": "Molho Bolonhesa",
+      "tempo_preparo": 45,
+      "depende_de": [
+        "molho_de_tomate",
+        "caldo_de_carne"
+      ]
+    },
+    {
+      "id": "pure_de_batata",
+      "nome": "Purê de Batata",
+      "tempo_preparo": 20,
+      "depende_de": [
+        "caldo_de_legumes"
+      ]
+    },
+    {
+      "id": "base_de_curry",
+      "nome": "Base de Curry",
+      "tempo_preparo": 25,
+      "depende_de": [
+        "caldo_de_frango"
+      ]
+    },
+    {
+      "id": "recheio_de_frutas_cozidas",
+      "nome": "Recheio de Frutas Cozidas",
+      "tempo_preparo": 20,
+      "depende_de": [
+        "calda_de_caramelo"
+      ]
+    },
+    {
+      "id": "molho_barbecue",
+      "nome": "Molho Barbecue",
+      "tempo_preparo": 15,
+      "depende_de": [
+        "molho_de_tomate"
+      ]
+    },
+    {
+      "id": "recheio_de_lasanha_completo",
+      "nome": "Recheio de Lasanha Completo",
+      "tempo_preparo": 15,
+      "depende_de": [
+        "molho_bolonhesa",
+        "molho_branco"
+      ]
+    },
+    {
+      "id": "massa_recheada",
+      "nome": "Massa Recheada",
+      "tempo_preparo": 20,
+      "depende_de": [
+        "recheio_especial"
+      ]
+    },
+    {
+      "id": "recheio_especial",
+      "nome": "Recheio Especial",
+      "tempo_preparo": 20,
+      "depende_de": [
+        "massa_recheada"
+      ]
+    }
+  ],
+  "receitas_dependentes": [
+    {
+      "id_receita": "52844",
+      "nome_receita": "Lasagne",
+      "depende_de": [
+        "recheio_de_lasanha_completo",
+        "massa_de_macarrao_fresca"
+      ]
+    },
+    {
+      "id_receita": "52775",
+      "nome_receita": "Vegan Lasagna",
+      "depende_de": [
+        "molho_de_tomate",
+        "massa_de_macarrao_fresca"
+      ]
+    },
+    {
+      "id_receita": "52770",
+      "nome_receita": "Spaghetti Bolognese",
+      "depende_de": [
+        "molho_bolonhesa",
+        "massa_de_macarrao_fresca"
+      ]
+    },
+    {
+      "id_receita": "52982",
+      "nome_receita": "Spaghetti alla Carbonara",
+      "depende_de": [
+        "massa_de_macarrao_fresca"
+      ]
+    },
+    {
+      "id_receita": "53014",
+      "nome_receita": "Pizza Express Margherita",
+      "depende_de": [
+        "massa_de_pizza",
+        "molho_de_tomate"
+      ]
+    },
+    {
+      "id_receita": "53330",
+      "nome_receita": "Cassava pizza",
+      "depende_de": [
+        "molho_de_tomate"
+      ]
+    },
+    {
+      "id_receita": "52803",
+      "nome_receita": "Beef Wellington",
+      "depende_de": [
+        "massa_folhada",
+        "caldo_de_carne"
+      ]
+    },
+    {
+      "id_receita": "52876",
+      "nome_receita": "Minced Beef Pie",
+      "depende_de": [
+        "massa_folhada",
+        "caldo_de_carne"
+      ]
+    },
+    {
+      "id_receita": "52881",
+      "nome_receita": "Steak and Kidney Pie",
+      "depende_de": [
+        "massa_folhada",
+        "caldo_de_carne"
+      ]
+    },
+    {
+      "id_receita": "52802",
+      "nome_receita": "Fish pie",
+      "depende_de": [
+        "pure_de_batata",
+        "molho_branco"
+      ]
+    },
+    {
+      "id_receita": "53000",
+      "nome_receita": "Vegetable Shepherds Pie",
+      "depende_de": [
+        "pure_de_batata",
+        "caldo_de_legumes"
+      ]
+    },
+    {
+      "id_receita": "53006",
+      "nome_receita": "Moussaka",
+      "depende_de": [
+        "molho_branco",
+        "molho_de_tomate"
+      ]
+    },
+    {
+      "id_receita": "52765",
+      "nome_receita": "Chicken Enchilada Casserole",
+      "depende_de": [
+        "molho_de_tomate",
+        "caldo_de_frango"
+      ]
+    },
+    {
+      "id_receita": "52781",
+      "nome_receita": "Irish stew",
+      "depende_de": [
+        "caldo_de_carne"
+      ]
+    },
+    {
+      "id_receita": "53354",
+      "nome_receita": "Jamaican Curry Goat",
+      "depende_de": [
+        "base_de_curry"
+      ]
+    },
+    {
+      "id_receita": "52820",
+      "nome_receita": "Katsu Chicken curry",
+      "depende_de": [
+        "base_de_curry",
+        "caldo_de_frango"
+      ]
+    },
+    {
+      "id_receita": "52868",
+      "nome_receita": "Kidney Bean Curry",
+      "depende_de": [
+        "base_de_curry",
+        "caldo_de_legumes"
+      ]
+    },
+    {
+      "id_receita": "52854",
+      "nome_receita": "Pancakes",
+      "depende_de": [
+        "massa_de_panqueca"
+      ]
+    },
+    {
+      "id_receita": "52855",
+      "nome_receita": "Banana Pancakes",
+      "depende_de": [
+        "massa_de_panqueca"
+      ]
+    },
+    {
+      "id_receita": "52859",
+      "nome_receita": "Key Lime Pie",
+      "depende_de": [
+        "massa_de_torta",
+        "creme_de_confeiteiro"
+      ]
+    },
+    {
+      "id_receita": "52857",
+      "nome_receita": "Pumpkin Pie",
+      "depende_de": [
+        "massa_de_torta"
+      ]
+    },
+    {
+      "id_receita": "53046",
+      "nome_receita": "Portuguese custard tarts",
+      "depende_de": [
+        "massa_folhada",
+        "creme_de_confeiteiro"
+      ]
+    },
+    {
+      "id_receita": "52909",
+      "nome_receita": "Tarte Tatin",
+      "depende_de": [
+        "massa_folhada",
+        "recheio_de_frutas_cozidas"
+      ]
+    },
+    {
+      "id_receita": "52916",
+      "nome_receita": "Pear Tarte Tatin",
+      "depende_de": [
+        "massa_folhada",
+        "recheio_de_frutas_cozidas"
+      ]
+    },
+    {
+      "id_receita": "52772",
+      "nome_receita": "Teriyaki Chicken Casserole",
+      "depende_de": [
+        "caldo_de_frango",
+        "molho_teriyaki"
+      ]
+    }
+  ]
+}

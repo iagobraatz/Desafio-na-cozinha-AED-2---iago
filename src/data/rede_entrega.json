@@ -1,0 +1,511 @@
+{
+  "estacoes": [
+    {
+      "id": "estacao_cozinha_centro",
+      "nome": "Cozinha Centro",
+      "capacidade_producao_hora": 90
+    },
+    {
+      "id": "estacao_cozinha_tres_vendas",
+      "nome": "Cozinha Três Vendas",
+      "capacidade_producao_hora": 60
+    },
+    {
+      "id": "estacao_cozinha_fragata",
+      "nome": "Cozinha Fragata",
+      "capacidade_producao_hora": 55
+    },
+    {
+      "id": "estacao_cozinha_laranjal",
+      "nome": "Cozinha Laranjal",
+      "capacidade_producao_hora": 45
+    }
+  ],
+  "regioes": [
+    {
+      "id": "regiao_centro",
+      "nome": "Centro",
+      "limite_pedidos_hora": 13
+    },
+    {
+      "id": "regiao_porto",
+      "nome": "Porto",
+      "limite_pedidos_hora": 10
+    },
+    {
+      "id": "regiao_areal",
+      "nome": "Areal",
+      "limite_pedidos_hora": 14
+    },
+    {
+      "id": "regiao_sao_goncalo",
+      "nome": "São Gonçalo",
+      "limite_pedidos_hora": 18
+    },
+    {
+      "id": "regiao_parque_una",
+      "nome": "Parque Una",
+      "limite_pedidos_hora": 8
+    },
+    {
+      "id": "regiao_tres_vendas",
+      "nome": "Três Vendas",
+      "limite_pedidos_hora": 9
+    },
+    {
+      "id": "regiao_santa_terezinha",
+      "nome": "Santa Terezinha",
+      "limite_pedidos_hora": 16
+    },
+    {
+      "id": "regiao_lindoia",
+      "nome": "Lindóia",
+      "limite_pedidos_hora": 9
+    },
+    {
+      "id": "regiao_pestano",
+      "nome": "Pestano",
+      "limite_pedidos_hora": 13
+    },
+    {
+      "id": "regiao_cohab_tablada",
+      "nome": "Cohab Tablada",
+      "limite_pedidos_hora": 17
+    },
+    {
+      "id": "regiao_obelisco",
+      "nome": "Obelisco",
+      "limite_pedidos_hora": 8
+    },
+    {
+      "id": "regiao_fragata",
+      "nome": "Fragata",
+      "limite_pedidos_hora": 16
+    },
+    {
+      "id": "regiao_guabiroba",
+      "nome": "Guabiroba",
+      "limite_pedidos_hora": 11
+    },
+    {
+      "id": "regiao_simoes_lopes",
+      "nome": "Simões Lopes",
+      "limite_pedidos_hora": 8
+    },
+    {
+      "id": "regiao_jardim_america",
+      "nome": "Jardim América",
+      "limite_pedidos_hora": 9
+    },
+    {
+      "id": "regiao_vila_princesa",
+      "nome": "Vila Princesa",
+      "limite_pedidos_hora": 14
+    },
+    {
+      "id": "regiao_bom_jesus",
+      "nome": "Bom Jesus",
+      "limite_pedidos_hora": 14
+    },
+    {
+      "id": "regiao_laranjal",
+      "nome": "Laranjal",
+      "limite_pedidos_hora": 9
+    },
+    {
+      "id": "regiao_valverde",
+      "nome": "Valverde",
+      "limite_pedidos_hora": 11
+    },
+    {
+      "id": "regiao_balneario_dos_prazeres",
+      "nome": "Balneário dos Prazeres",
+      "limite_pedidos_hora": 9
+    },
+    {
+      "id": "regiao_recanto_de_portugal",
+      "nome": "Recanto de Portugal",
+      "limite_pedidos_hora": 16
+    },
+    {
+      "id": "regiao_santo_antonio",
+      "nome": "Santo Antônio",
+      "limite_pedidos_hora": 14
+    },
+    {
+      "id": "regiao_barragem",
+      "nome": "Barragem",
+      "limite_pedidos_hora": 8
+    },
+    {
+      "id": "regiao_areal_sul",
+      "nome": "Areal Sul",
+      "limite_pedidos_hora": 17
+    },
+    {
+      "id": "regiao_navegantes",
+      "nome": "Navegantes",
+      "limite_pedidos_hora": 9
+    },
+    {
+      "id": "regiao_balsa",
+      "nome": "Balsa",
+      "limite_pedidos_hora": 11
+    }
+  ],
+  "conexoes": [
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_centro",
+      "tempo_estimado_min": 6,
+      "distancia_km": 2.5
+    },
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_porto",
+      "tempo_estimado_min": 17,
+      "distancia_km": 6.3
+    },
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_areal",
+      "tempo_estimado_min": 12,
+      "distancia_km": 4.3
+    },
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_sao_goncalo",
+      "tempo_estimado_min": 9,
+      "distancia_km": 3.4
+    },
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_parque_una",
+      "tempo_estimado_min": 9,
+      "distancia_km": 3.6
+    },
+    {
+      "origem": "estacao_cozinha_tres_vendas",
+      "destino": "regiao_tres_vendas",
+      "tempo_estimado_min": 14,
+      "distancia_km": 5.7
+    },
+    {
+      "origem": "estacao_cozinha_tres_vendas",
+      "destino": "regiao_santa_terezinha",
+      "tempo_estimado_min": 10,
+      "distancia_km": 3.6
+    },
+    {
+      "origem": "estacao_cozinha_tres_vendas",
+      "destino": "regiao_lindoia",
+      "tempo_estimado_min": 11,
+      "distancia_km": 4.3
+    },
+    {
+      "origem": "estacao_cozinha_tres_vendas",
+      "destino": "regiao_pestano",
+      "tempo_estimado_min": 7,
+      "distancia_km": 2.9
+    },
+    {
+      "origem": "estacao_cozinha_tres_vendas",
+      "destino": "regiao_cohab_tablada",
+      "tempo_estimado_min": 11,
+      "distancia_km": 4.4
+    },
+    {
+      "origem": "estacao_cozinha_tres_vendas",
+      "destino": "regiao_obelisco",
+      "tempo_estimado_min": 18,
+      "distancia_km": 7.5
+    },
+    {
+      "origem": "estacao_cozinha_fragata",
+      "destino": "regiao_fragata",
+      "tempo_estimado_min": 19,
+      "distancia_km": 7.7
+    },
+    {
+      "origem": "estacao_cozinha_fragata",
+      "destino": "regiao_guabiroba",
+      "tempo_estimado_min": 19,
+      "distancia_km": 7.5
+    },
+    {
+      "origem": "estacao_cozinha_fragata",
+      "destino": "regiao_simoes_lopes",
+      "tempo_estimado_min": 12,
+      "distancia_km": 5.1
+    },
+    {
+      "origem": "estacao_cozinha_fragata",
+      "destino": "regiao_jardim_america",
+      "tempo_estimado_min": 12,
+      "distancia_km": 4.4
+    },
+    {
+      "origem": "estacao_cozinha_fragata",
+      "destino": "regiao_vila_princesa",
+      "tempo_estimado_min": 14,
+      "distancia_km": 5.6
+    },
+    {
+      "origem": "estacao_cozinha_fragata",
+      "destino": "regiao_bom_jesus",
+      "tempo_estimado_min": 15,
+      "distancia_km": 6.2
+    },
+    {
+      "origem": "estacao_cozinha_laranjal",
+      "destino": "regiao_laranjal",
+      "tempo_estimado_min": 14,
+      "distancia_km": 5.7
+    },
+    {
+      "origem": "estacao_cozinha_laranjal",
+      "destino": "regiao_valverde",
+      "tempo_estimado_min": 7,
+      "distancia_km": 2.4
+    },
+    {
+      "origem": "estacao_cozinha_laranjal",
+      "destino": "regiao_recanto_de_portugal",
+      "tempo_estimado_min": 18,
+      "distancia_km": 6.9
+    },
+    {
+      "origem": "estacao_cozinha_laranjal",
+      "destino": "regiao_santo_antonio",
+      "tempo_estimado_min": 15,
+      "distancia_km": 5.7
+    },
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_barragem",
+      "tempo_estimado_min": 20,
+      "distancia_km": 7.9
+    },
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_areal_sul",
+      "tempo_estimado_min": 7,
+      "distancia_km": 3.1
+    },
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_navegantes",
+      "tempo_estimado_min": 15,
+      "distancia_km": 5.8
+    },
+    {
+      "origem": "estacao_cozinha_centro",
+      "destino": "regiao_balsa",
+      "tempo_estimado_min": 16,
+      "distancia_km": 6.5
+    },
+    {
+      "origem": "regiao_centro",
+      "destino": "regiao_porto",
+      "tempo_estimado_min": 12,
+      "distancia_km": 5.1
+    },
+    {
+      "origem": "regiao_porto",
+      "destino": "regiao_areal",
+      "tempo_estimado_min": 4,
+      "distancia_km": 1.9
+    },
+    {
+      "origem": "regiao_areal",
+      "destino": "regiao_sao_goncalo",
+      "tempo_estimado_min": 7,
+      "distancia_km": 2.8
+    },
+    {
+      "origem": "regiao_sao_goncalo",
+      "destino": "regiao_parque_una",
+      "tempo_estimado_min": 4,
+      "distancia_km": 1.2
+    },
+    {
+      "origem": "regiao_parque_una",
+      "destino": "regiao_centro",
+      "tempo_estimado_min": 7,
+      "distancia_km": 2.9
+    },
+    {
+      "origem": "regiao_tres_vendas",
+      "destino": "regiao_santa_terezinha",
+      "tempo_estimado_min": 10,
+      "distancia_km": 3.8
+    },
+    {
+      "origem": "regiao_santa_terezinha",
+      "destino": "regiao_lindoia",
+      "tempo_estimado_min": 9,
+      "distancia_km": 4.0
+    },
+    {
+      "origem": "regiao_lindoia",
+      "destino": "regiao_pestano",
+      "tempo_estimado_min": 8,
+      "distancia_km": 2.7
+    },
+    {
+      "origem": "regiao_pestano",
+      "destino": "regiao_cohab_tablada",
+      "tempo_estimado_min": 10,
+      "distancia_km": 3.9
+    },
+    {
+      "origem": "regiao_cohab_tablada",
+      "destino": "regiao_obelisco",
+      "tempo_estimado_min": 12,
+      "distancia_km": 4.4
+    },
+    {
+      "origem": "regiao_obelisco",
+      "destino": "regiao_tres_vendas",
+      "tempo_estimado_min": 3,
+      "distancia_km": 0.9
+    },
+    {
+      "origem": "regiao_tres_vendas",
+      "destino": "regiao_pestano",
+      "tempo_estimado_min": 7,
+      "distancia_km": 2.4
+    },
+    {
+      "origem": "regiao_fragata",
+      "destino": "regiao_guabiroba",
+      "tempo_estimado_min": 6,
+      "distancia_km": 2.3
+    },
+    {
+      "origem": "regiao_guabiroba",
+      "destino": "regiao_simoes_lopes",
+      "tempo_estimado_min": 10,
+      "distancia_km": 3.6
+    },
+    {
+      "origem": "regiao_simoes_lopes",
+      "destino": "regiao_jardim_america",
+      "tempo_estimado_min": 10,
+      "distancia_km": 3.9
+    },
+    {
+      "origem": "regiao_jardim_america",
+      "destino": "regiao_vila_princesa",
+      "tempo_estimado_min": 7,
+      "distancia_km": 3.2
+    },
+    {
+      "origem": "regiao_vila_princesa",
+      "destino": "regiao_bom_jesus",
+      "tempo_estimado_min": 9,
+      "distancia_km": 4.0
+    },
+    {
+      "origem": "regiao_fragata",
+      "destino": "regiao_jardim_america",
+      "tempo_estimado_min": 7,
+      "distancia_km": 3.0
+    },
+    {
+      "origem": "regiao_laranjal",
+      "destino": "regiao_valverde",
+      "tempo_estimado_min": 8,
+      "distancia_km": 3.4
+    },
+    {
+      "origem": "regiao_valverde",
+      "destino": "regiao_balneario_dos_prazeres",
+      "tempo_estimado_min": 9,
+      "distancia_km": 4.1
+    },
+    {
+      "origem": "regiao_balneario_dos_prazeres",
+      "destino": "regiao_recanto_de_portugal",
+      "tempo_estimado_min": 5,
+      "distancia_km": 1.6
+    },
+    {
+      "origem": "regiao_recanto_de_portugal",
+      "destino": "regiao_santo_antonio",
+      "tempo_estimado_min": 5,
+      "distancia_km": 1.7
+    },
+    {
+      "origem": "regiao_santo_antonio",
+      "destino": "regiao_laranjal",
+      "tempo_estimado_min": 6,
+      "distancia_km": 1.9
+    },
+    {
+      "origem": "regiao_barragem",
+      "destino": "regiao_areal_sul",
+      "tempo_estimado_min": 12,
+      "distancia_km": 4.5
+    },
+    {
+      "origem": "regiao_areal_sul",
+      "destino": "regiao_navegantes",
+      "tempo_estimado_min": 7,
+      "distancia_km": 2.3
+    },
+    {
+      "origem": "regiao_navegantes",
+      "destino": "regiao_balsa",
+      "tempo_estimado_min": 9,
+      "distancia_km": 3.6
+    },
+    {
+      "origem": "regiao_balsa",
+      "destino": "regiao_barragem",
+      "tempo_estimado_min": 12,
+      "distancia_km": 4.9
+    },
+    {
+      "origem": "regiao_centro",
+      "destino": "regiao_tres_vendas",
+      "tempo_estimado_min": 19,
+      "distancia_km": 7.8
+    },
+    {
+      "origem": "regiao_centro",
+      "destino": "regiao_fragata",
+      "tempo_estimado_min": 31,
+      "distancia_km": 12.9
+    },
+    {
+      "origem": "regiao_centro",
+      "destino": "regiao_laranjal",
+      "tempo_estimado_min": 35,
+      "distancia_km": 14.2
+    },
+    {
+      "origem": "regiao_centro",
+      "destino": "regiao_barragem",
+      "tempo_estimado_min": 16,
+      "distancia_km": 6.4
+    },
+    {
+      "origem": "regiao_sao_goncalo",
+      "destino": "regiao_valverde",
+      "tempo_estimado_min": 32,
+      "distancia_km": 12.7
+    },
+    {
+      "origem": "regiao_bom_jesus",
+      "destino": "regiao_navegantes",
+      "tempo_estimado_min": 27,
+      "distancia_km": 10.7
+    }
+  ],
+  "frota": {
+    "quantidade_entregadores": 20,
+    "entregas_por_entregador_hora": 4
+  },
+  "kits_promocionais_disponiveis": 50
+}
