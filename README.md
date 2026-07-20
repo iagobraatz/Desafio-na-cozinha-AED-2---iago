@@ -152,7 +152,7 @@ Arquivo: `src/services/producao_service.py`
 
 Seleciona o subconjunto de receitas que maximiza lucro ou avaliação, respeitando orçamento, tempo, limite de ingredientes raros, capacidade de equipe e, opcionalmente, um estoque de ingredientes disponíveis informado pelo usuário (a receita só entra na otimização se puder ser feita inteiramente com os ingredientes informados), usando **programação dinâmica** (mochila 0/1).
 
-> **Nota de escopo:** dos critérios de otimização citados no enunciado ("lucro esperado, avaliação média, popularidade, diversidade gastronômica"), implementamos **lucro** e **avaliação**. "Popularidade" não tem fonte de dado real na base (a TheMealDB não fornece esse campo, e o T1 também nunca o teve). "Diversidade gastronômica" exigiria uma otimização não-aditiva sobre o conjunto escolhido, incompatível com a formulação de mochila 0/1 sem explodir o espaço de estados — decidimos não implementar por ora. Essa é uma decisão consciente de escopo, não uma lacuna despercebida.
+> **Nota de escopo:** dos critérios de otimização citados no enunciado ("lucro esperado, avaliação média, popularidade, diversidade gastronômica"), implementamos **lucro** e **avaliação**. "Popularidade" não tem fonte de dado real na base (a TheMealDB não fornece esse campo, e o T1 também nunca o teve). "Diversidade gastronômica" exigiria uma otimização não-aditiva sobre o conjunto escolhido, incompatível com a formulação de mochila 0/1 sem explodir o espaço de estados então decidi não implementar por ora. Essa é uma decisão consciente de escopo, não uma lacuna despercebida.
 
 Arquivo: `src/services/otimizacao_service.py`
 
@@ -160,7 +160,7 @@ Arquivo: `src/services/otimizacao_service.py`
 
 Modela a rede de delivery como um grafo geográfico (estações + regiões). Permite: calcular a menor rede de conexões (árvore geradora mínima); consultar rotas e tempo estimado (Dijkstra); encontrar caminhos alternativos; identificar regiões isoladas e pontos críticos (pontes) da rede; e calcular a capacidade máxima de atendimento simultâneo via fluxo máximo, apontando o gargalo operacional (produção, frota ou regiões).
 
-> **Nota de escopo:** dos quatro tipos de capacidade citados no enunciado (produção das estações, número de entregadores, limite por região, quantidade de kits promocionais), os três primeiros estão modelados como camadas da rede de fluxo. O campo `kits_promocionais_disponiveis` é carregado a partir de `rede_entrega.json`, mas não foi conectado a nenhum cálculo — ele representaria um recurso paralelo e mais específico (só parte dos pedidos usa kit), o que exigiria uma segunda topologia de fluxo dedicada. Ficou fora do escopo desta entrega por decisão consciente, não por descuido.
+> **Nota de escopo:** dos quatro tipos de capacidade citados no enunciado (produção das estações, número de entregadores, limite por região, quantidade de kits promocionais), os três primeiros estão modelados como camadas da rede de fluxo. O campo `kits_promocionais_disponiveis` é carregado a partir de `rede_entrega.json`, mas não foi conectado a nenhum cálculo ele representaria um recurso paralelo e mais específico (só parte dos pedidos usa kit), o que exigiria uma segunda topologia de fluxo dedicada. Ficou fora do escopo desta entrega por decisão consciente, não por descuido.
 
 Arquivo: `src/services/logistica_service.py`
 
